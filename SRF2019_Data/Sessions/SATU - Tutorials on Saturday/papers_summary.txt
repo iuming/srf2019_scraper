@@ -1,0 +1,62 @@
+Session: SATU - Tutorials on Saturday
+Session ID: SATU
+URL: https://proceedings.jacow.org/srf2019/html/satu.htm
+Scrape time: 2025-10-06 15:54:53
+Paper count: 4
+Available presentations: 4/4
+Available papers: 0/4
+Available posters: 0/4
+================================================================================
+
+1. Paper ID: SATU1
+   Title: Beam-cavity Interaction and Operational Aspects of SRF Systems With Beam
+   Authors: Fermilab, Batavia, Illinois, USA, ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS, DESY, Hamburg, Germany, This tutorial presents the challenges and techniques involved in low level radio frequency (LLRF) controls of superconducting (SRF) cavities. The fundamentals of the electro-mechanical model of SRF cavities are recalled; the principles of frequency and bandwidth tuning and its impact on cavity field regulation are presented as well. The basic elements of standard digital LLRF systems are introduced: feed forward, feedback, up and down conversion, sampling, IQ detection and digital processing. The difference between single cavity regulation and vector sum control, pulsed and continuous wave operation are discussed. When applicable, the introduced concepts will be illustrated with real examples, taken from machine operation., ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS, DESY, Hamburg, Germany, Some considerations and specifications for cryomodule design are discussed for different accelerator applications. The cryomodule design as well as the layout of the cryogenic distribution scheme have to be adapted to the particular accelerator requirements. Disregarding the differences, the various cryomodule designs share several common fundamental features like thermal insulation and RF cavity alignment. Examples for cryomodule designs are shown with reference to the ESS and XFEL cryomodules. Some criteria for the choice of the superconducting cavity operation temperature are discussed. Fundamental elements of helium refrigerators are shown. In particular, different options for subatmospheric Helium II bath cooling are illustrated. The importance of Helium bath pressure stability for the RF operation of superconducting cavities is clarified. Some methods to adapt the refrigerator operation to RF load changes or to compensate the RF load changes are explained. The XFEL linac cryogenic system layout is presented as an example., ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS, HZB, Berlin, Germany, ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/satu1_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/satu1.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/satu1_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-SATU1
+   Abstract: Slides SATU1 [19.812 MB] reference for this paper using LLRF Controls and RF Operation Slides SATU2 [9.177 MB] reference for this paper using Fundamentals of Cryomodule Design and Cryogenics Slides SATU3 [5.260 MB] reference for this paper using Methods and Simulation Tools for Cavity Design Methods...
+------------------------------------------------------------
+2. Paper ID: SATU2
+   Title: LLRF Controls and RF Operation
+   Authors: DESY, Hamburg, Germany, This tutorial presents the challenges and techniques involved in low level radio frequency (LLRF) controls of superconducting (SRF) cavities. The fundamentals of the electro-mechanical model of SRF cavities are recalled; the principles of frequency and bandwidth tuning and its impact on cavity field regulation are presented as well. The basic elements of standard digital LLRF systems are introduced: feed forward, feedback, up and down conversion, sampling, IQ detection and digital processing. The difference between single cavity regulation and vector sum control, pulsed and continuous wave operation are discussed. When applicable, the introduced concepts will be illustrated with real examples, taken from machine operation., ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS, DESY, Hamburg, Germany, Some considerations and specifications for cryomodule design are discussed for different accelerator applications. The cryomodule design as well as the layout of the cryogenic distribution scheme have to be adapted to the particular accelerator requirements. Disregarding the differences, the various cryomodule designs share several common fundamental features like thermal insulation and RF cavity alignment. Examples for cryomodule designs are shown with reference to the ESS and XFEL cryomodules. Some criteria for the choice of the superconducting cavity operation temperature are discussed. Fundamental elements of helium refrigerators are shown. In particular, different options for subatmospheric Helium II bath cooling are illustrated. The importance of Helium bath pressure stability for the RF operation of superconducting cavities is clarified. Some methods to adapt the refrigerator operation to RF load changes or to compensate the RF load changes are explained. The XFEL linac cryogenic system layout is presented as an example., ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS, HZB, Berlin, Germany, ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/satu2_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/satu2.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/satu2_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-SATU2
+   Abstract: Slides SATU2 [9.177 MB] reference for this paper using Fundamentals of Cryomodule Design and Cryogenics Slides SATU3 [5.260 MB] reference for this paper using Methods and Simulation Tools for Cavity Design Methods and Simulation Tools for Cavity Design Slides SATU4 [43.324 MB] reference for this pap...
+------------------------------------------------------------
+3. Paper ID: SATU3
+   Title: Fundamentals of Cryomodule Design and Cryogenics
+   Authors: DESY, Hamburg, Germany, Some considerations and specifications for cryomodule design are discussed for different accelerator applications. The cryomodule design as well as the layout of the cryogenic distribution scheme have to be adapted to the particular accelerator requirements. Disregarding the differences, the various cryomodule designs share several common fundamental features like thermal insulation and RF cavity alignment. Examples for cryomodule designs are shown with reference to the ESS and XFEL cryomodules. Some criteria for the choice of the superconducting cavity operation temperature are discussed. Fundamental elements of helium refrigerators are shown. In particular, different options for subatmospheric Helium II bath cooling are illustrated. The importance of Helium bath pressure stability for the RF operation of superconducting cavities is clarified. Some methods to adapt the refrigerator operation to RF load changes or to compensate the RF load changes are explained. The XFEL linac cryogenic system layout is presented as an example., ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS, HZB, Berlin, Germany, ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/satu3_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/satu3.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/satu3_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-SATU3
+   Abstract: Slides SATU3 [5.260 MB] reference for this paper using Methods and Simulation Tools for Cavity Design Methods and Simulation Tools for Cavity Design Slides SATU4 [43.324 MB] reference for this paper using
+------------------------------------------------------------
+4. Paper ID: SATU4
+   Title: Methods and Simulation Tools for Cavity Design
+   Authors: HZB, Berlin, Germany, ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/satu4_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/satu4.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/satu4_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-SATU4
+   Abstract: Slides SATU4 [43.324 MB] reference for this paper using
+------------------------------------------------------------

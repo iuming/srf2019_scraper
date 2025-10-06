@@ -1,0 +1,41 @@
+{
+  "session_info": {
+    "id": "MOKN",
+    "name": "MOKN - Key Note Talk",
+    "url": "https://proceedings.jacow.org/srf2019/html/mokn.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "MOKN1",
+      "title": "Scientific Applications Using High Repetition Rate Hard X-Ray FELs",
+      "authors": [
+        "EuXFEL",
+        "Hamburg",
+        "Germany",
+        "Hard X-ray free-electron lasers (FEL) present one of the most challenging applications of electron accelerators. European XFEL is one of these installations providing up to ~30.000 bunches per second",
+        "more than a factor 100 higher than other facilities. High repetition rate FEL experiments allow to open new science opportunities and thus drive the accelerator development. These facilities rely on SRF technology to enable high repetition rates",
+        "either by using pulsed RF (FLASH",
+        "European XFEL) or so-called continuous-wave (cw) RF (LCLS-II",
+        "SHINE). European XFEL has started user operation in 2017 after 8 yrs of construction. The facility is designed to serve several science instruments quasi-simultanously using its delivery of up to ~30.000 bunches per second using a 10 Hz burst pattern. These bunches can be distributed to presently 3 (future 5) FEL sources serving 6 to 10 science instruments. The talk will cover the scientific motivation for hard X-ray high repetition rate FELs",
+        "introduce the current facility status",
+        "and highlight results from first experiments using high repetition rate X-ray delivery. Differences between pulsed and cw beam delivery will be discussed.",
+        "※ BibTeX",
+        "※ LaTeX",
+        "※ Text/Word",
+        "※ RIS"
+      ],
+      "institutions": [],
+      "abstract": "Slides MOKN1 [3.805 MB] reference for this paper using",
+      "presentation_url": "https://proceedings.jacow.org/srf2019/talks/mokn1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/srf2019/papers/mokn1.pdf",
+      "poster_url": "https://proceedings.jacow.org/srf2019/posters/mokn1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SRF2019-MOKN1",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-02 13:53:04"
+}

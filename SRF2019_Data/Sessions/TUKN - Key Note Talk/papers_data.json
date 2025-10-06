@@ -1,0 +1,41 @@
+{
+  "session_info": {
+    "id": "TUKN",
+    "name": "TUKN - Key Note Talk",
+    "url": "https://proceedings.jacow.org/srf2019/html/tukn.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUKN1",
+      "title": "Pros and Cons of Laser-Plasma Accelerators: Where Are the Limits, and Will LPA Compete With SRF",
+      "authors": [
+        "University of Hamburg",
+        "Hamburg",
+        "Germany",
+        "There is a lot of excitement about ultra-compact laser plasma accelerators (LPA)",
+        "and they are being praised as the enabling technology for next-generation accelerators and light-sources. However many questions remain among \"non-experts\" outside the field: What performance can realistically be expected? Will LPA-based facilities be indeed as compact and relatively inexpensive as is being advertised? Are reliable user facilities feasible in the next couple of decades and is it realistic that such facilities will someday be able to replace conventional and SRF-based accelerators? Or will laser-plasma acceleration be a complementary technology",
+        "with each of the three systems serving a different category of users? Openly discussing the fundamental concepts",
+        "limitations and opportunities of laser-plasma acceleration",
+        "this contribution will try to provide an answer to at least some of these questions. Finally",
+        "reviewing the current state-of-the-art and challenges of the field",
+        "an outlook on the development in the next few years will be presented.",
+        "※ BibTeX",
+        "※ LaTeX",
+        "※ Text/Word",
+        "※ RIS"
+      ],
+      "institutions": [],
+      "abstract": "reference for this paper using",
+      "presentation_url": "https://proceedings.jacow.org/srf2019/talks/tukn1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/srf2019/papers/tukn1.pdf",
+      "poster_url": "https://proceedings.jacow.org/srf2019/posters/tukn1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SRF2019-TUKN1",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-02 14:02:28"
+}

@@ -1,0 +1,65 @@
+Session: THTU - Tutorials on Thursday
+Session ID: THTU
+URL: https://proceedings.jacow.org/srf2019/html/thtu.htm
+Scrape time: 2025-10-06 15:58:04
+Paper count: 4
+Available presentations: 4/4
+Available papers: 0/4
+Available posters: 0/4
+================================================================================
+
+1. Paper ID: THTU1
+   Title: Basic Principles of RF Superconductivity
+   Authors: JLab, Newport News, Virginia, USA, In this lecture, the basic principles of RF superconductivity are introduced, including electrodynamics of normal conductors superconductivity, type-I and type-II superconductors, introduction to BCS and GL theories, surface resistance of superconductors, field dependence of surface resistance and introduction to performance limitations., ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS, CERN, Meyrin, Switzerland, Starting from basic principles, the lecture introduces waveguides and cavities, along with the quantities used to describe their performance. Narrowing down to a class of cavities with purely transverse magnetic fields (TM), which in the form of "elliptical cavities" are most frequently used for superconducting RF, guidelines are given how to optimize these cavities for different uses. Finally, some ancillaries (HOM dampers, couplers, tuners) are briefly mentioned., ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS, JLab, Newport News, Virginia, USA, ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS, KEK, Ibaraki, Japan, Contents of this lectures include high power input couplers, HOM couplers and absorbers., ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS
+   Institutions: Over the past 30 years we have done about 6500 cold cavity tests on more than 800 different cavities at Jefferson Lab. Most of these tests were done with voltage controlled oscillator based phase locked loop systems. More recently we converted most of our systems to digital low level RF based systems. In addition to doing many of these test myself, I have been involved with the development, construction and commissioning of several cavity test systems and the software used to control them. My hope today is to provide you with a basic understanding of the RF systems necessary to perform these tests. I hope you leave here with an understanding of the importance of calibration processes and the control and understanding of potential error sources. I will also provide some information relating to the practical aspects of operating SRF cavities in real machines. Hopefully, A complete set of equations necessary for calculating the cavity parameters and can be found on the website for this conference as an addendum to this talk.
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/thtu1_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/thtu1.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/thtu1_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-THTU1
+   Abstract: Slides THTU1 [1.962 MB] reference for this paper using RF Basics and TM Cavities Slides THTU2 [41.246 MB] reference for this paper using Practical Aspects of SRF Cavity Testing and Operations Slides THTU3 [9.873 MB] reference for this paper using High Power Couplers and HOM Couplers Slides THTU4 [35...
+------------------------------------------------------------
+2. Paper ID: THTU2
+   Title: RF Basics and TM Cavities
+   Authors: CERN, Meyrin, Switzerland, Starting from basic principles, the lecture introduces waveguides and cavities, along with the quantities used to describe their performance. Narrowing down to a class of cavities with purely transverse magnetic fields (TM), which in the form of "elliptical cavities" are most frequently used for superconducting RF, guidelines are given how to optimize these cavities for different uses. Finally, some ancillaries (HOM dampers, couplers, tuners) are briefly mentioned., ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS, JLab, Newport News, Virginia, USA, ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS, KEK, Ibaraki, Japan, Contents of this lectures include high power input couplers, HOM couplers and absorbers., ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS
+   Institutions: Over the past 30 years we have done about 6500 cold cavity tests on more than 800 different cavities at Jefferson Lab. Most of these tests were done with voltage controlled oscillator based phase locked loop systems. More recently we converted most of our systems to digital low level RF based systems. In addition to doing many of these test myself, I have been involved with the development, construction and commissioning of several cavity test systems and the software used to control them. My hope today is to provide you with a basic understanding of the RF systems necessary to perform these tests. I hope you leave here with an understanding of the importance of calibration processes and the control and understanding of potential error sources. I will also provide some information relating to the practical aspects of operating SRF cavities in real machines. Hopefully, A complete set of equations necessary for calculating the cavity parameters and can be found on the website for this conference as an addendum to this talk.
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/thtu2_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/thtu2.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/thtu2_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-THTU2
+   Abstract: Slides THTU2 [41.246 MB] reference for this paper using Practical Aspects of SRF Cavity Testing and Operations Slides THTU3 [9.873 MB] reference for this paper using High Power Couplers and HOM Couplers Slides THTU4 [35.719 MB] reference for this paper using
+------------------------------------------------------------
+3. Paper ID: THTU3
+   Title: Practical Aspects of SRF Cavity Testing and Operations
+   Authors: JLab, Newport News, Virginia, USA, ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS, KEK, Ibaraki, Japan, Contents of this lectures include high power input couplers, HOM couplers and absorbers., ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS
+   Institutions: Over the past 30 years we have done about 6500 cold cavity tests on more than 800 different cavities at Jefferson Lab. Most of these tests were done with voltage controlled oscillator based phase locked loop systems. More recently we converted most of our systems to digital low level RF based systems. In addition to doing many of these test myself, I have been involved with the development, construction and commissioning of several cavity test systems and the software used to control them. My hope today is to provide you with a basic understanding of the RF systems necessary to perform these tests. I hope you leave here with an understanding of the importance of calibration processes and the control and understanding of potential error sources. I will also provide some information relating to the practical aspects of operating SRF cavities in real machines. Hopefully, A complete set of equations necessary for calculating the cavity parameters and can be found on the website for this conference as an addendum to this talk.
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/thtu3_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/thtu3.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/thtu3_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-THTU3
+   Abstract: Slides THTU3 [9.873 MB] reference for this paper using High Power Couplers and HOM Couplers Slides THTU4 [35.719 MB] reference for this paper using
+------------------------------------------------------------
+4. Paper ID: THTU4
+   Title: High Power Couplers and HOM Couplers
+   Authors: KEK, Ibaraki, Japan, Contents of this lectures include high power input couplers, HOM couplers and absorbers., ※ BibTeX, ※ LaTeX, ※ Text/Word, ※ RIS
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/thtu4_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/thtu4.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/thtu4_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-THTU4
+   Abstract: Slides THTU4 [35.719 MB] reference for this paper using
+------------------------------------------------------------

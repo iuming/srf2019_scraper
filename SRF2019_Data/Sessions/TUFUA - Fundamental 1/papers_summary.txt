@@ -1,0 +1,95 @@
+Session: TUFUA - Fundamental 1
+Session ID: TUFUA
+URL: https://proceedings.jacow.org/srf2019/html/tufua.htm
+Scrape time: 2025-10-02 13:59:30
+Paper count: 7
+Available presentations: 7/7
+Available papers: 4/7
+Available posters: 0/7
+================================================================================
+
+1. Paper ID: TUFUA1
+   Title: The Field-Dependent Surface Resistance of Doped Niobium: New Experimental and Theoretical Results
+   Authors: J.T. Maniscalco, M. Ge, P.N. Koufalis, M. Liepe, Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA, T. Arias, D. Liarte, J.P. Sethna, N. Sitaraman, Cornell University, Ithaca, New York, USA, We present systematic work investigating how different doping and post-doping treatments affect the BCS surface resistance at 1.3~GHz and higher frequencies. We examine the field-dependent BCS resistance at many temperatures as well as the field-dependent residual resistance and use the results to reveal how impurity species and concentration levels affect the field-dependent RF properties. We further demonstrate the importance of thermal effects and their direct dependence on doping level. We use the tools of Density Functional Theory to work towards an {\em ab initio} model of electron overheating to theoretically confirm the impact of doping, create a full model that includes thermal effects to predict the field dependent resistance, and show that the predictions of the model agree with results from doped and non-doped cavities ({\em e.g.} the strength of the anti-Q-slope and the high-field Q slope). Finally, we use our experimental results to systematically assess and compare theories of the field-dependent BCS resistance, showing that the current theory on smearing of the density of states is incomplete.
+   Page: 340
+   Presentation Status: ✓ Available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufua1_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufua1.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufua1_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUA1
+------------------------------------------------------------
+2. Paper ID: TUFUA2
+   Title: Overview of Progress in High Q and High G in Niobium Cavities
+   Authors: Fermilab, Batavia, Illinois, USA
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufua2_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufua2.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufua2_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUA2
+   Abstract: There was no abstract provided by the author.
+------------------------------------------------------------
+3. Paper ID: TUFUA3
+   Title: Development of a Qualitative Model for N-Doping Effects on Nb SRF Cavities
+   Authors: A.D. Palczewski, C.E. Reece, J.K. Spradlin, JLab, Newport News, Virginia, USA, Virginia Polytechnic Institute and State University, Blacksburg, USA, In early 2018, preliminary RF date from the LCLS-II HE program suggested two new high temperature doping recipes developed at Jefferson Laboratory (3N60) and Fermi Nation Laboratory (2N0) produced quench fields outside expectations.* Both recipes showed quench fields (while maintaining high Q0) outside the simplified model where the quench field scaled purely with the RF surface doping level. In late 2018 we developed a qualitative going on a quantitative model based on preliminary SIMS/SEM measurements of the new recipes that would explain the quench field distribution. Unfortunately, subsequent measurements invalidated the developing model. We will present our original qualitative model and new data where the model breaks down; showing the multi-variable dynamics which we now think we need to understand in order to fully model and maximize quench fields for high temperature doping., * Palczewski, A.D. and Bafia, D., contributions TESLA Technology Collaboration University of British Columbia, Vancouver, Canada, February 5 - 8 2019
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufua3_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufua3.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufua3_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUA3
+------------------------------------------------------------
+4. Paper ID: TUFUA4
+   Title: New Insights on Nitrogen Doping
+   Authors: D. Bafia, J. Zasadzinski, IIT, Chicago, Illinois, USA, D. Bafia, M. Checchin, A. Grassellino, O.S. Melnychuk, A.S. Romanenko, D.A. Sergatskov, Fermilab, Batavia, Illinois, USA, This paper covers a systematic study of the quench in nitrogen doped cavities: a cavity was sequentially treated/reset with different N-doping recipes which are known to produce different levels of quench field. Analysis of cavity heating profiles using TMAP are used to gain insight on the origins of quench; new recipes demonstrate the possibility to increase quench fields well beyond 30 MV/m. In addition, a new signature of nitrogen doping is explored, namely, a dip in the superconducting resonant frequency below the normal conducting value just below the critical transition temperature, giving further insights on the mechanisms responsible for the large increase in performance of cavities subject to this surface treatment.
+   Page: 347
+   Presentation Status: ✓ Available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufua4_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufua4.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufua4_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUA4
+------------------------------------------------------------
+5. Paper ID: TUFUA5
+   Title: Recent Development on Nitrogen Infusion Work Towards High Q and High Gradient
+   Authors: JLab, Newport News, Virginia, USA, A quality factor as high as 2 × 1010 at 1.5 GHz was achieved at a gradient of 35 MV/m by 800 °C annealing and N-infusion at 140 °C. A comparison of the field dependence of the surface resistance after N-infusion with a recent theoretical model that extends the calculation of the BCS surface resistance to high rf fields suggests an increase in the quasiparticles¿ relaxation time with increasing infusion temperature, which could be due to a decreasing density of subgap states. Nb coupons treated similarly showed the formation of thicker oxynitride layer on the surface beneath thin dielectric Nb2O5 layer. A plausible explanation for the improved Q0  is that the oxynitride layer on the Nb surface adds additional electron scattering within RF penetration depth.
+   Page: 355
+   Presentation Status: ✓ Available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufua5_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufua5.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufua5_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUA5
+------------------------------------------------------------
+6. Paper ID: TUFUA6
+   Title: Surface Analysis of Niobium After Thermal/Gas Treatments via Samples - Review
+   Authors: A. Dangwal Pandey, T.F. Keller, H. Noei, D. Reschke, J. Schaffran, G.D.L. Semione, V. Vonk, H. Weise, M. Wenskat, DESY, Hamburg, Germany, C. Bate, A. Stierle, University of Hamburg, Hamburg, Germany, Thermal treatments of SRF Nb cavities - including the well-established 120°C bake and the recently reported N-infusion - are shown to improve the cavity performance significantly; however, the underlying physical phenomenon is not fully understood. A short review will be presented on surface characterization of niobium material subjected to various thermal and gas exposure protocols and how the findings correlate with observed SRF properties. Moreover, recent results obtained on single-crystal Nb samples - heated in different vacuum environments and characterised by means of X-ray photoelectron spectroscopy and grazing-incidence X-ray diffraction, electron microscopy, energy dispersive X-ray spectroscopy and time-of-flight secondary ion mass spectroscopy will be discussed.
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufua6_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufua6.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufua6_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUA6
+------------------------------------------------------------
+7. Paper ID: TUFUA7
+   Title: Review of Muon Spin Rotation Studies of SRF Materials
+   Authors: Lancaster University, Lancaster, United Kingdom, TRIUMF, Vancouver, Canada, Muons spin rotate in magnetic fields and emit a positron preferentially in spin direction after decay. These properties enable muon spin rotation (muSR) as a precise probe for local magnetism. muSR has been used to characterize SRF materials since 2010. At TRIUMF a so called surface beam implants muons at a material dependent depth of about 150 µm in the bulk. A dedicated spectrometer was developed for field of first vortex penetration and pinning strength measurements of SRF materials in parallel magnetic fields of up to 300 mT. A low energy beam available at PSI implants muons at variable depth in the London layer allowing for direct measurements of the London penetration depth from which the lower critical field and the superheating field can be calculated. This facility is limited to parallel magnetic fields of up to 25 mT. Here, surface and low energy muSR results on SRF materials are reviewed and cross-correlated to each other and to further results from additional experiments. Finally, we present the status of a new facility based on the similar beta-NMR technique enabling measurements in the London layer of SRF materials exposed to parallel magnetic fields above 200 mT.
+   Page: 360
+   Presentation Status: ✓ Available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufua7_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufua7.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufua7_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUA7
+------------------------------------------------------------

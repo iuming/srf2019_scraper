@@ -1,0 +1,95 @@
+Session: TUFUB - Fundamental 2
+Session ID: TUFUB
+URL: https://proceedings.jacow.org/srf2019/html/tufub.htm
+Scrape time: 2025-10-02 14:00:58
+Paper count: 7
+Available presentations: 7/7
+Available papers: 4/7
+Available posters: 0/7
+================================================================================
+
+1. Paper ID: TUFUB1
+   Title: Direct Correlation of State of the Art Cavity Performance With Surface Nb Nano-Hydrides Cutouts Observed via Cryogenic AFM
+   Authors: Fermilab, Batavia, Illinois, USA
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufub1_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufub1.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufub1_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUB1
+   Abstract: There was no abstract provided by the author.
+------------------------------------------------------------
+2. Paper ID: TUFUB2
+   Title: New Insights into RF Field Amplitude and Frequency Dependence of Vortex Surface Resistance
+   Authors: Fermilab, Batavia, Illinois, USA, In this talk, the surface resistance due to trapped vortices is being described. Experimental data acquired at Fermilab for bulk niobium elliptical cavities as a function of frequency, trapped magnetic field value and RF field amplitude will be presented. Numerical calculations of the vortex dynamics under RF drive will be also presented in order to describe the mechanism underneath the RF field amplitude dependence of the surface resistance due to trapped vortices. Different pinning landscapes in the material will be taken into consideration, aiming to pinpoint the pinning configuration that better describes the observed field dependence.
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufub2_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufub2.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufub2_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUB2
+------------------------------------------------------------
+3. Paper ID: TUFUB3
+   Title: Mapping Flux Trapping in SRF Cavities to Analyze the Impact of Geometry
+   Authors: F. Kramer, J. Knobloch, O. Kugeler, J.M. Köszegi, HZB, Berlin, Germany, University of Siegen, Siegen, Germany, A combined temperature and magnetic field mapping system was used to investigate the impact of an ambient field on trapped flux and on the resulting local surface resistance. For this, a 1.3 GHz TESLA single cell cavity was cooled through the superconducting transition at different magnetic field angles with respect to the cavity axis. The measurements suggest, that the field is trapped homogeneously over the cavity volume, without changing its orientation. Flux trapped perpendicular the surface contributed significantly more to the surface resistance, than trapped flux parallel to the surface.
+   Page: 364
+   Presentation Status: ✓ Available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufub3_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufub3.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufub3_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUB3
+------------------------------------------------------------
+4. Paper ID: TUFUB4
+   Title: Microscopic Investigation of Flux Trapping Sites in Bulk Nb
+   Authors: Fermilab, Batavia, Illinois, USA, Flux expulsion efficiency of SRF cavities is strictly dependent on the properties of the material used for cavity fabrication. Some cavities improve their flux expulsion properties after being heath treated at high temperature (usually larger than 900°C), suggesting that flux trapping sites are intimately related to the material microstructure. In this presentation, results of a detailed microstructure analysis that aims to unavailing which features are culprit of pinning flux in bulk niobium cavities, will be presented.
+   Page: 
+   Presentation Status: ✓ Available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufub4_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufub4.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufub4_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUB4
+------------------------------------------------------------
+5. Paper ID: TUFUB5
+   Title: Effects of Static Magnetic Fields on a Low-frequency TEM Class Superconducting Cavity
+   Authors: M.K. Ng, Z.A. Conway, M.P. Kelly, K.W. Shepard, ANL, Lemont, Illinois, USA, Systematic studies on the effect of magnetic fields on a 330 MHz superconducting (TEM-mode) half-wave cavity are presented. The practical application of the results is for a possible future 2 K operation in the ATLAS heavy-ion accelerator at Argonne. The low frequency and the integral stainless steel jacket, rather than titanium, provide important new data for this full production model low-beta cavity. The studies include multi-axial magnetic field measurements near the cavity surface due to ambient and applied fields. Cavity performance under different conditions is measured at temperatures ranging between 1.6 K and 4.5 K. A residual resistance of approximately 5-7 nΩ at 1.6 K is observed. Data suggest that an appreciable fraction arises from losses that are not due to flux trapping.
+   Page: 370
+   Presentation Status: ✓ Available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufub5_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufub5.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufub5_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUB5
+------------------------------------------------------------
+6. Paper ID: TUFUB7
+   Title: Measurement of Surface Resistance Properties with Coaxial Resonators - Review
+   Authors: H. Park, S.U. De Silva, J.R. Delayen, ODU, Norfolk, Virginia, USA, Achieving ever decreasing surface resistance at higher field in superconducting RF accelerating structures is one of most outstanding developments in modern accelerators. The BCS theory has been used widely to estimate the surface resistance and to direct the technology. However, recent research results show that the behavior of the surface resistance further deviates from the BCS theory. So far the study on surface resistance was performed usually with cavities of single frequency which limited the study of frequency dependent surface resistance. The Center for Accelerator Science at Old Dominion University has designed and built several half wave coaxial cavities to study the frequency, temperature, and RF field dependence of surface resistance. TRIUMF in Canada also joined this line of research using such multi frequency quarter wave and half wave coaxial cavities. This type of multi mode cavity will allow us to systematically study the parameters affecting surface resistance on the same cavity surface. In this paper, we review the results ODU and TRIUMF collected so far and proper analysis methods.
+   Page: 374
+   Presentation Status: ✓ Available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufub7_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufub7.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufub7_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUB7
+------------------------------------------------------------
+7. Paper ID: TUFUB8
+   Title: CVD Coated Copper Substrate SRF Cavity Research at Cornell University
+   Authors: M. Ge, T. Gruber, J.J. Kaufman, M. Liepe, J.T. Maniscalco, T.E. Oseroff, R.D. Porter, Z. Sun, Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA, V.M. Arrieta, S.R. McNeal, Ultramet, Pacoima, California, USA, Chemical vapor deposition (CVD) is a promising alternative to conventional sputter techniques for coating copper substrate cavities with high-quality superconducting films. Through multiple SRF-related DOE SBIR projects, Ultramet has developed CVD processes and CVD reactor designs for SRF cavities, and Cornell University has conducted extensive RF testing of CVD coated surfaces. Here we report results from thin-film CVD Nb3Sn coated copper test plates, and for thick-film CVD niobium on copper including full-scale single cell 1.3 GHz copper substrate cavities. Detailed optical inspection and surface characterization show high-quality and well-adhered coatings. No copper contamination is found. The Nb3Sn coated plates have a uniform Nb3Sn coating with a slightly low tin concentration (19 -22%), but a BCS resistance well in agreement with predictions. The CVD Nb coatings on copper plates demonstrate excellent adhesion characteristics and exceeded surface fields of 50 mT without showing signs of a strong Q-slope that is frequently observed in sputtered Nb cavities. Multiple single-cell 1.3 GHz copper cavities have been coated to date at Ultramet, and results from RF testing of these are presented and discussed.
+   Page: 381
+   Presentation Status: ✓ Available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: https://proceedings.jacow.org/srf2019/talks/tufub8_talk.pdf
+   Paper URL: https://proceedings.jacow.org/srf2019/papers/tufub8.pdf
+   Poster URL: https://proceedings.jacow.org/srf2019/posters/tufub8_poster.pdf
+   DOI: https://doi.org/10.18429/JACoW-SRF2019-TUFUB8
+------------------------------------------------------------
