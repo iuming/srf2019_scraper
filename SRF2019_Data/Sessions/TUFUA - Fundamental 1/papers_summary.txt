@@ -1,7 +1,7 @@
 Session: TUFUA - Fundamental 1
 Session ID: TUFUA
 URL: https://proceedings.jacow.org/srf2019/html/tufua.htm
-Scrape time: 2025-10-02 13:59:30
+Scrape time: 2025-10-06 16:07:03
 Paper count: 7
 Available presentations: 7/7
 Available papers: 4/7

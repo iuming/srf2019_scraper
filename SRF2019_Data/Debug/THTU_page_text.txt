@@ -1,0 +1,205 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRF2019 - Table of Session: THTU (Tutorials on Thursday)
+
+
+THTU —  Tutorials on Thursday   (27-Jun-19   09:00—17:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+THTU1
+Basic Principles of RF Superconductivity
+ 
+
+
+ 
+
+G. Ciovati
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+In this lecture, the basic principles of RF superconductivity are introduced, including electrodynamics of normal conductors superconductivity, type-I and type-II superconductors, introduction to BCS and GL theories, surface resistance of superconductors, field dependence of surface resistance and introduction to performance limitations.
+
+ 
+
+
+
+
+
+
+Slides THTU1 [1.962 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THTU2
+RF Basics and TM Cavities
+ 
+
+
+ 
+
+E. Jensen
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+Starting from basic principles, the lecture introduces waveguides and cavities, along with the quantities used to describe their performance. Narrowing down to a class of cavities with purely transverse magnetic fields (TM), which in the form of "elliptical cavities" are most frequently used for superconducting RF, guidelines are given how to optimize these cavities for different uses. Finally, some ancillaries (HOM dampers, couplers, tuners) are briefly mentioned.
+
+ 
+
+
+
+
+
+
+Slides THTU2 [41.246 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THTU3
+Practical Aspects of SRF Cavity Testing and Operations
+ 
+
+
+ 
+
+T. Powers
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Over the past 30 years we have done about 6500 cold cavity tests on more than 800 different cavities at Jefferson Lab. Most of these tests were done with voltage controlled oscillator based phase locked loop systems. More recently we converted most of our systems to digital low level RF based systems. In addition to doing many of these test myself, I have been involved with the development, construction and commissioning of several cavity test systems and the software used to control them. My hope today is to provide you with a basic understanding of the RF systems necessary to perform these tests. I hope you leave here with an understanding of the importance of calibration processes and the control and understanding of potential error sources. I will also provide some information relating to the practical aspects of operating SRF cavities in real machines. Hopefully, A complete set of equations necessary for calculating the cavity parameters and can be found on the website for this conference as an addendum to this talk.
+
+ 
+
+
+
+
+
+
+Slides THTU3 [9.873 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THTU4
+High Power Couplers and HOM Couplers
+ 
+
+
+ 
+
+E. Kako
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Contents of this lectures include high power input couplers, HOM couplers and absorbers.
+
+ 
+
+
+
+
+
+
+Slides THTU4 [35.719 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

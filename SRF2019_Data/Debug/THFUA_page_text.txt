@@ -1,0 +1,395 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRF2019 - Table of Session: THFUA (Fundamental 3)
+
+
+THFUA —  Fundamental 3   (04-Jul-19   08:00—10:30)
+Chair: A. Grassellino, Fermilab, Batavia, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+THFUA1
+RF Characterization of an S-I-S’ Multilayer Sample
+800
+
+
+ 
+
+S. Keckert, J. Knobloch, O. Kugeler, D.B. Tikhonov
+                       HZB, Berlin, Germany
+A-M. Valente-Feliciano
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+S-I-S’ multilayers promise to boost the performance of bulk superconductors in terms of maximum field and surface resistance. At HZB, RF-surface resistance measurements were performed with a Quadrupole Resonator (QPR) and an S-I-S’ sample (75 nm NbTiN on 15 nm AlN insulator on bulk Nb) prepared at JLab. Measurements were performed at 414, 845, and 1286 MHz at sample temperatures from 2 K up to well above the transition temperature of NbTiN of ~17.3 K. The Rs exhibits an unexpected temperature dependence: Rather than rising monotonically, as expected from BCS theory, a local maximum is observed. There is a temperature range where Rs decreases with increasing temperature. Such behavior indicates that an additional interaction between the superconducting layers may have to be included in the surface resistance model. Measurements of the baseline Nb sample prior to coating exhibited no such behavior; hence systematic measurement errors can be excluded as the explanation. The maximum field was limited by a hard magnetic quench near 20 mT, close to Hc1 of NbTiN, suggesting that the sample is limited by early flux penetration.
+
+ 
+
+
+
+
+
+
+Slides THFUA1 [1.004 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THFUA1
+
+ 
+
+
+About •
+paper received ※ 22 June 2019       paper accepted ※ 03 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THFUA2
+Evaluation of the Superconducting Characteristics of Multi-Layer Thin-Film Structures of NbN and SiO2 on Pure Nb Substrate
+807
+
+
+ 
+
+R. Katayama, H. Hayano, T. Kubo, T. Saeki
+                       KEK, Ibaraki, Japan
+C.Z. Antoine
+                       CEA-IRFU, Gif-sur-Yvette, France
+H. Ito
+                       Sokendai, Ibaraki, Japan
+R. Ito
+                       ULVAC, Inc, Chiba, Japan
+Y. Iwashita, H. Tongu
+                       Kyoto ICR, Uji, Kyoto, Japan
+T. Nagata
+                       ULVAC, Inc., Tsukuba, Japan
+
+ 
+
+
+ 
+
+In recent years, it has been pointed out that the maximum accelerating gradient of a superconducting RF cavity can be increased by coating the inner surface of the cavity with a multilayer thin-film structure consisting of alternating insulating and superconducting layers. In this structure, the principal parameter that limits the performance of the cavity is the critical magnetic field or effective Hc1 at which vortices begin penetrating into the superconductor layer. This is predicted to depend on the combination of the film thickness. We made samples that have a NbN/SiO2 thin-film structure on a pure Nb substrate with several layers of NbN film deposited using DC magnetron sputtering method. Here, we report the measurement results of effective Hc1 of NbN/SiO2(30 nm)/Nb multilayer samples with thicknesses of NbN layers in the range from 50 nm to 800 nm by using the third-harmonic voltage method. Experimental results show that an optimum thickness exists, which increases the effective Hc1 by 23.8 %.
+
+ 
+
+
+
+
+
+
+Slides THFUA2 [2.333 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THFUA2
+
+ 
+
+
+About •
+paper received ※ 03 July 2019       paper accepted ※ 05 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THFUA3
+Material and Superconducting Properties of  NbTiN/AlN Multilayer Films
+ 
+
+
+ 
+
+A-M. Valente-Feliciano, D.R. Beverstock, C.E. Reece
+                       JLab, Newport News, Virginia, USA
+C.Z. Antoine
+                       CEA-DRF-IRFU, France
+S. Keckert, O. Kugeler, D.B. Tikhonov
+                       HZB, Berlin, Germany
+M.J. Kelley
+                       The College of William and Mary, Williamsburg, Virginia, USA
+R. Valizadeh
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177 and DARPA-BAA MIPR No. HD0011728910
+In the pursuit of increasing the range of surface magnetic fields sustainable in SRF cavities, new standards in quality of thin multi-layer superconductor/insulator/superconductor (SIS) structures are being achieved. With the synergistic development of multilayered metamaterials based on 3 to 1 nm NbTiN and AlN films, the interface between films is improved. Based on bulk film values, the maximum magnetic field contour plot is also established for NbTiN to guide the choice of each layer thickness and quickly converge to optimized SIS structures. The delayed DC flux entry is measured for standalone NbTiN films and multilayer stacked structures on ideal substrates and Nb substrates. Some SIS structures along with standalone NbTiN films have been deposited on Nb and their superconducting properties and RF surface impedance are evaluated.
+
+ 
+
+
+
+
+
+
+Slides THFUA3 [28.515 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THFUA4
+Field-Dependent Nonlinear Surface Resistance and Its Optimization by Surface Nano-Structuring of the SRF Cavities
+ 
+
+
+ 
+
+T. Kubo
+                       KEK, Ibaraki, Japan
+A.V. Gurevich
+                       ODU, Norfolk, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: The work of T. K. was supported by JSPS KAKENHI Grant Number JP17H04839 and JP17KK0100. The work of A. G. was supported by NSF under Grant No. PHY-1416051 and DOE under Grant No DE-SC100387-020.
+We propose a theory of nonlinear surface resistance of a dirty superconductor in a strong RF field (H0), taking into account magnetic and nonmagnetic impurities, finite quasiparticle lifetimes, and a thin proximity-coupled normal layer characteristic of the oxide surface of many materials. It is shown that the interplay of the broadening of the quasiparticle density of states (DOS) peaks and a decrease of a quasiparticle gap caused by the RF currents produces a minimum in Rs(H0) and an extended rise of the quality factor Q(H0) with the RF field. Paramagnetic impurities shift the minimum in Rs(H0) to lower fields and can reduce Rs(H0) in a wide range of H0. Subgap states in the DOS can give rise to a residual surface resistance while reducing Rs at higher temperatures. A proximity-coupled normal layer can shift the minimum to either low and high fields and can reduce Rs below that of an ideal surface. The field dependence of Q(H0) can be very sensitive to the materials processing. The nonlinear RF losses can be minimized by tuning pairbreaking effects using impurity management or surface nanostructuring.
+
+ 
+
+
+
+
+
+
+Slides THFUA4 [7.130 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THFUA5
+Field Limitation in Nb3Sn Cavities
+ 
+
+
+ 
+
+R.D. Porter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Niobium-3 Tin (Nb3Sn) is the most promising alternative material to Nb for SRF cavities, allowing for twice the operating temperature and potentially twice the accelerating gradient compared to Nb. According to the superheating field, an elliptical Nb3Sn cavity could reach 96 MV/m. However, current Cornell Nb3Sn cavities quench between 14 and 18 MV/m in CW operation. Previous work has shown that cavity quench occurs at a thermal surface defect, but the details of the defect are not yet understood. Here we present further studies of the defect/quench mechanism conducted at Cornell and with collaborators. These studies suggest new quench mechanisms and rule out older hypotheses.
+
+ 
+
+
+
+
+
+
+Slides THFUA5 [12.734 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THFUA6
+Nb3Sn Films for SRF Cavities: Genesis and RF Properties
+810
+
+
+ 
+
+U. Pudasaini, M.J. Kelley
+                       The College of William and Mary, Williamsburg, Virginia, USA
+J.W. Angle, M.J. Kelley, J. Tuggle
+                       Virginia Polytechnic Institute and State University, Blacksburg, USA
+G.V. Eremeev, M.J. Kelley, C.E. Reece
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Partially authored by Jefferson Science Associates under contract no. DE¬AC05¬06OR23177. Supported by Office of High Energy Physics under grants DE-SC-0014475 to the College of William and DE-SC-0018918 to Virginia Tech.
+Understanding of Nb3Sn nucleation and growth is essential to the progress with Nb3Sn vapor diffusion coatings of SRF cavities. Samples representing different stages of Nb3Sn formation have been produced and examined to elucidate the effects of nucleation, growth, process conditions, and impurities. Nb3Sn films from few hundreds of nm up to ~15 µm were grown and characterized using AFM, SEM/EDS, XPS, EBSD, SIMS, and SAM. Microscopic examinations of samples suggest the mechanisms behind Nb3Sn thin film nucleation and growth. RF measurements of coated cavities were combined with material characterization of witness samples to adapt the coating process in "Siemens" coating configuration. Understanding obtained from sample studies, applied to cavities, resulted in Nb3Sn cavity with quality factor 2 ×1010 at 15 MV/m accelerating gradient at 4 K, without "Wuppertal" Q-slope. We discuss the genesis of the Nb3Sn thin film in a typical tin vapor diffusion process, and its consequences to the coating of SRF cavities.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THFUA6
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THFUA7
+RF Performances of Nb3Sn Coatings on a Copper Substrate for Accelerating Cavities Applications
+ 
+
+
+ 
+
+M. Arzeo, S. Fernandez, E.A. Ilyina, G.J. Rosaz, W. Venturini Delsolaro
+                       CERN, Geneva, Switzerland
+M. Bonura, C. Senatore
+                       UNIGE, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In the last decades, with the advancement of the bulk niobium technology for making superconducting RF (SRF) accelerating cavities, the expected theoretical limitations are being reached. For this reason superconducting materials alternative to niobium are being considered. One of the most promising among them is the Nb3Sn alloy. The higher critical temperature and field makes it very attractive for SRF applications. The coating of superconducting Nb3Sn films on a copper substrate has been optimized at CERN. Few micron thick films with excellent structural and morphological properties are prepared via DC magnetron sputtering of stoichiometric targets. While DC superconducting properties were measured along with the optimization of the coating methods, the RF performances were still unknown. In this talk we shall report on the results from the first complete RF characterization of such films. The surface resistance Rs is estimated as a function of both temperature and RF peak magnetic field at three different frequencies by means of the quadrupole resonator at CERN. The sensitivity of Rs to thermal cycling around Tc, and to trapped magnetic field, is also studied and presented.
+
+ 
+
+
+
+
+
+
+Slides THFUA7 [13.144 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,7 +1,7 @@
 Session: MOFAA - Facilities 1
 Session ID: MOFAA
 URL: https://proceedings.jacow.org/srf2019/html/mofaa.htm
-Scrape time: 2025-10-02 13:48:55
+Scrape time: 2025-10-06 15:59:42
 Paper count: 4
 Available presentations: 4/4
 Available papers: 3/4

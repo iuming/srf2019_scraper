@@ -1,7 +1,7 @@
 Session: WETEA - Technology 1
 Session ID: WETEA
 URL: https://proceedings.jacow.org/srf2019/html/wetea.htm
-Scrape time: 2025-10-02 14:09:13
+Scrape time: 2025-10-06 16:16:56
 Paper count: 6
 Available presentations: 6/6
 Available papers: 2/6

@@ -1,7 +1,7 @@
 Session: THHT - Hot Topic
 Session ID: THHT
 URL: https://proceedings.jacow.org/srf2019/html/thht.htm
-Scrape time: 2025-10-02 14:16:13
+Scrape time: 2025-10-06 16:22:33
 Paper count: 1
 Available presentations: 1/1
 Available papers: 0/1

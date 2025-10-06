@@ -1,7 +1,7 @@
 Session: TUKN - Key Note Talk
 Session ID: TUKN
 URL: https://proceedings.jacow.org/srf2019/html/tukn.htm
-Scrape time: 2025-10-02 14:02:28
+Scrape time: 2025-10-06 16:10:00
 Paper count: 1
 Available presentations: 0/1
 Available papers: 0/1

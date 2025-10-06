@@ -1,7 +1,7 @@
 Session: MOKN - Key Note Talk
 Session ID: MOKN
 URL: https://proceedings.jacow.org/srf2019/html/mokn.htm
-Scrape time: 2025-10-02 13:53:04
+Scrape time: 2025-10-06 16:01:09
 Paper count: 1
 Available presentations: 1/1
 Available papers: 0/1

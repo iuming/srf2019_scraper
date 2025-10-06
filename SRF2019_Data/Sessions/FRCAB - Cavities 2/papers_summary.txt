@@ -1,7 +1,7 @@
 Session: FRCAB - Cavities 2
 Session ID: FRCAB
 URL: https://proceedings.jacow.org/srf2019/html/frcab.htm
-Scrape time: 2025-10-02 14:24:47
+Scrape time: 2025-10-06 16:29:39
 Paper count: 8
 Available presentations: 7/8
 Available papers: 6/8

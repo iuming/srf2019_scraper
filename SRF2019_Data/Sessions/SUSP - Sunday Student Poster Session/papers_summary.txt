@@ -1,7 +1,7 @@
 Session: SUSP - Sunday Student Poster Session
 Session ID: SUSP
 URL: https://proceedings.jacow.org/srf2019/html/susp.htm
-Scrape time: 2025-10-02 13:48:13
+Scrape time: 2025-10-06 15:59:00
 Paper count: 36
 Available presentations: 0/36
 Available papers: 0/36

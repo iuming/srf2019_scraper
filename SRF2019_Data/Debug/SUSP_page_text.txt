@@ -1,0 +1,2026 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRF2019 - Table of Session: SUSP (Sunday Student Poster Session)
+
+
+SUSP —  Sunday Student Poster Session   (30-Jun-19   16:00—20:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+SUSP001
+Crystallographic Characterization of Nb3Sn Coatings and N-Doped Niobium via EBSD and SIMS
+ 
+
+
+THP017
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+J.W. Angle, M.J. Kelley, J. Tuggle
+                       Virginia Polytechnic Institute and State University, Blacksburg, USA
+G.V. Eremeev, M.J. Kelley, C.E. Reece
+                       JLab, Newport News, Virginia, USA
+M.J. Kelley, U. Pudasaini
+                       The College of William and Mary, Williamsburg, Virginia, USA
+
+ 
+
+
+ 
+
+Historically, niobium has been used as the superconducting material in SRF cavities. Due the high operational costs, other materials are currently being considered. Nb3Sn coatings have been investigated over the past several decades, motivated by potentially higher operating temperatures. More recently niobium has been doped with nitrogen to improve the quality factor (Q). Currently, a need for better understanding still exists for both mechanisms. EBSD has been shown to be a viable technique to determine the crystallographic orientation and the size of the Nb3Sn grains. The EBSD maps obtained show a bimodal distribution of grain sizes with smaller Nb3Sn grains found present near the Nb3Sn/Nb interface. In addition to the Nb3Sn coatings, N-doped niobium coupons were analyzed by EBSD and found that the coupon had preferred surface orientation. The EBSD analysis was found to be vital as specific grains could be targeted in SIMS to better understand the diffusion of nitrogen with respect to crystal orientation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP017
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP002
+Nitrogen Infusion Sample R&D at DESY
+ 
+
+
+MOP023
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+C. Bate, A. Dangwal Pandey, A. Ermakov, B. Foster, T.F. Keller, D. Reschke, J. Schaffran, S. Sievers, N. Walker, H. Weise, M. Wenskat
+                       DESY, Hamburg, Germany
+W. Hillert
+                       University of Hamburg, Institut für Experimentalphysik, Hamburg, Germany
+G.D.L. Semione, V. Vonk
+                       DESY Nanolab, FS-NL, Hamburg, Germany
+A. Stierle
+                       University of Hamburg, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL continuous wave upgrade requires cavities with reduced surface resistance (high Q-values) for high duty cycle while maintaining high accelerating gradient for short-pulse operation. A possible way to meet the requirements is the so-called nitrogen infusion procedure. However, a fundamental understanding and a theoretical model of this method are still missing. The approach shown here is based on sample R&D, with the goal to identify key parameters of the process and establish a stable, reproducible recipe. To understand the underlying processes of the surface evolution, which gives improved cavity performance, advanced surface analysis techniques (e.g. SEM/EDX, TEM, XPS, TOF-SIMS) are utilized. Additionally, a small furnace just for samples was set up to change and explore the parameter space of the infusion recipe. Results of these analyses, their implications for the cavity R&D and next steps are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP023
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP003
+Progress of TRIUMF Beta-SRF Facility for Novel SRF Materials
+ 
+
+
+THP047
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+E. Thoeng
+                       UBC & TRIUMF, Vancouver, British Columbia, Canada
+R.A. Baartman, P. Kolb, R.E. Laxdal, B. Matheson, G. Morris, N. Muller, S. Saminathan
+                       TRIUMF, Vancouver, Canada
+T. Junginger
+                       UVIC, Victoria, Canada
+
+ 
+
+
+ 
+
+Funding: NSERC (Natural Sciences and Engineering Research Council of Canada)
+SRF cavities made with bulk Nb have been the backbone of high-power modern linear accelerators. Demands for higher energy and more efficient linear accelerators, however, have strained the capabilities of bulk Nb close to its fundamental limit. Several routes have been proposed using thin film novel superconductors (e.g. Nb3Sn), SIS multilayer, and N-doping. Beta-NMR techniques are more suitable for the characterization of Meissner state in these materials, due to the capability of soft-landing radioactive ions on the nanometer scale of London penetration depth, as compared to micrometer probe of the muSR technique. Upgrade of the existing beta-NQR beamline, combined with the capability of high parallel magnetic field (200 mT) are the scope of the beta-SRF facility which has been fully funded. All hardware required for the upgrade has also been procured. The status of the commissioning, which is currently in phase I, is reported here, together with the future schedule of phase II with the fully installed beta-SRF beamline. Finally, the detail layout of the completed beamline and sample requirements will be included in this paper which might be of interest of future users.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP047
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP004
+Microphonics Noise Suppression with Observer Based Feedback
+ 
+
+
+THP074
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M. Keikha, K. Fong
+                       TRIUMF, Vancouver, Canada
+M. Moallem
+                       SFU, Surrey, Canada
+
+ 
+
+
+ 
+
+Funding: TRIUMF
+Detuning of superconducting radio frequency (SRF) cavities is mainly caused by the Lorentz force, which is the radiation pressure induced by a high radio frequency (RF) field, and environmental mechanical vibrations that induce undesirable interference signals referred to as microphonics. Both of these influences can be described by a second order differential equation of the mechanical vibration modes of the cavity. In this paper we consider three dominant mechanical modes of the system and develop a control scheme based on input-output linearization. It is shown through simulation studies that the proposed control technique can successfully the suppress microphonic noise due to the SRF cavity¿s dynamics.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP074
+
+ 
+
+
+About •
+paper received ※ 22 June 2019       paper accepted ※ 01 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP005
+Electrochemical Deposition of  Nb3Sn on the Surface of Cu Substrates
+ 
+
+
+TUP076
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M. Lu, Q.W. Chu, Y. He, Z.Q. Lin, F. Pan, T. Tan, Z.Q. Yang
+                       IMP/CAS, Lanzhou, People’s Republic of China
+
+ 
+
+
+ 
+
+Coating superconducting Nb3Sn thin film on the inner surface of a superconducting RF cavity is one of the most promising approaches to improve the performance of the accelerating cavity. Compared with traditional evaporation and sputtering, electrochemical coating has the advantages on process simplicity, low cost and mass production. However, the conventional electroplating, because of its low growth temperature and aqueous reaction environment, tends to produce porous, loosely bonded, and often contaminated film. All these properties result in excessive pinning center and deteriorate the superconducting radio frequency cavities performance. In this paper, a new method including multi-layer electroplating and heat treatment is used to deposit Nb3Sn thin film on top of copper substrates. Important growth parameters, e.g. electrical current density, layer thickness ratio, and annealing temperature are studied. The morphology of the film surfaces was observed by scanning electron microscope (SEM) and the structure of the film was analyzed by X-ray diffraction (XRD). The results showed that a flat and uniform Nb3Sn layer on copper can be obtained, and the thickness is about 7 micron.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUP076
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 01 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP006
+Flashover on RF Window of HWR SRF Cavity
+ 
+
+
+TUP064
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+X. Liu, Z. Gao, Y. He, G. Huang
+                       IMP/CAS, Lanzhou, People’s Republic of China
+
+ 
+
+
+ 
+
+Breakdown on the RF ceramic windows always happen in different kinds of accelerator. It is one of the main limitations in current day superconducting cavities and couplers. The PT signal trip caused by discharge on the surface of RF ceramic window lead LLRF control system trip which affect the stable operation of the superconducting linac. Simulation of field emission electron trajectory in superconducting cavity and experimental measurements of the frequency of the pickup signal trip have been performed. A lot of aged window with characteristics of flashover were studied by means of material characterization. The flashover on the surface of RF ceramic window caused by electrons and field emission provide the origin of initial electrons. A modified design of the pickup antenna have solved the PT pickup trip problem.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUP064
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 04 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP007
+The Study of High Power Couplers for CIADS
+ 
+
+
+MOP073
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Z.Q. Lin, Y. He, S.C. Huang, Y.L. Huang, T.C. Jiang, C.L. Li, Y.M. Li, M. Lu, F. Pan, T. Tan, R.X. Wang, Z. Xue, Z.Q. Yang, S.X. Zhang
+                       IMP/CAS, Lanzhou, People’s Republic of China
+
+ 
+
+
+ 
+
+High power couplers with high operation reliability are needed for the superconducting cavities used in the Linac of CiADS project at IMP. This paper will report two works on high power coupler. The DC bias structure of the coupler was optimized to suppress the multipacting effect, where the series resistors were introduced to the wire of the DC bias to reduce the field propagating along the DC bias¿s wire. For the purpose of significantly decreasing the power needed to condition the coupler, we designed a new RF conditioning scheme, in which the coupler served as a standing wave resonator, and the positions of the crests and troughs of the wave were tunable. The details of the design mentioned above will be depicted.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP073
+
+ 
+
+
+About •
+paper received ※ 25 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP008
+Deposition Parameter Effects on Niobium Nitride (NbN) Thin Films Deposited Onto Copper Substrates with DC Magnetron Sputtering
+ 
+
+
+THP043
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S.B. Leith, X. Jiang, M. Vogel
+                       University Siegen, Siegen, Germany
+R. Ries, E. Seiler
+                       Slovak Academy of Sciences, Institute of Electrical Engineering, Bratislava, Slovak Republic
+
+ 
+
+
+ 
+
+Funding: The EASITrain project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant No 764879.
+As part of efforts to improve the performance of SRF cavities, to that prescribed by future operating requirements, alternative materials are currently being investigated. NbN is one of the alternatives under investigation to provide these better performance figures. In this contribution, a summary of results from an investigation into DC magnetron sputtered NbN thin films deposited onto copper substrates is presented. The copper substrates were prepared using a mechanical polishing process, followed by a chemical etching process. The NbN films were prepared in a large scale commercial coating system. A high and low value for the substrate temperature, process pressure, bias voltage, cathode power, nitrogen gas percentage, and the working gas type, using either Argon or Krypton, constitute the parameters of this study. The base pressure of the system prior to deposition was 5x107 hPa for all coatings. The resulting films have been characterised using various surface characterisation methods to determine the effects of the deposition parameters during the film growth process. The deposition parameters have been optimised based on the characterisation results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP043
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP009
+Cavity Designs for the CH3 to CH11 of the Superconducting Heavy Ion Accelerator HELIAC
+ 
+
+
+TUP005
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+T. Conrad, M. Basten, M. Busch, H. Podlech, M. Schwarz
+                       IAP, Frankfurt am Main, Germany
+K. Aulenbacher, W.A. Barth, F.D. Dziuba, V. Gettmann, T. Kürzeder, S. Lauber, J. List, M. Miski-Oglu
+                       HIM, Mainz, Germany
+K. Aulenbacher
+                       KPH, Mainz, Germany
+W.A. Barth, M. Heilmann, A. Rubin, A. Schnase, S. Yaramyshev
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+In collaboration of GSI, HIM and Goethe University Frankfurt new designs for the CH-DTL cavities of the proposed Helmholtz Linear Accelerator (HELIAC) are developed. The cw-mode operated linac with a final energy of 7.3 MeV/u is intended for various experiments, especially with heavy ions at energies near the coulomb barrier. Currently twelve superconducting CH-cavities are considered which will be split into four different cryostats. Each cavity will be equipped with dynamic bellow tuners. After successful beam tests with CH0 as well as last surface preparations and ongoing rf tests with CH1 and CH2, CH3 to CH11 will be designed. Based on the successful test results, individual optimizations are carried out on the cavity design. Attention was paid to reduce production costs, for example by keeping the cavity diameter in each cryostat constant despite varying particle velocities and gap numbers. In addition to reaching the resonance frequency of 216.816 MHz and the influence of the bellow tuners on the frequency, the mechanical stability of the bellow tuners, the thermal effects on the cavity and the measures to mitigate secondary electron emission are investigated.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUP005
+
+ 
+
+
+About •
+paper received ※ 19 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP010
+Development of Superconducting RF Double Spoke Cavity at IHEP
+ 
+
+
+THP089
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Q. Zhou, F.S. He, W.M. Pan
+                       IHEP, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+The China Spallation Neutron Source (CSNS) is de-signed to produce spallation neutrons. CSNS upgrade is planned to increase beam power by inserting a SRF linac after drift tube linac (DTL). IHEP is developing a 325MHz double spoke cavity at ¿0 of 0.5 for the CSNS SRF linac. The cavity shape was optimized to minimize Ep/Ea while keeping Bp/Ep reasonably low. Meanwhile, mechanical design was applied to check stress, Lorentz force detuning and microphonic effects, and to minimize pressure sensitivity. A new RF coupling scheme was pro-posed to avoid electrons hitting directly on ceramic win-dow. After fabrication and post processing of cavity, the cavity reached Bp of 120mT at Eacc = 13.8MV/m and Q0 = 1.72·1010 under vertical test at 2K.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP089
+
+ 
+
+
+About •
+paper received ※ 22 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP011
+Metallographic Polishing Pathway to the Future of Large Scale SRF Facilities
+ 
+
+
+THP002
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+O. Hryhorenko, M. Chabot
+                       Université Paris-Saclay, CNRS/IN2P3, IJCLab, Orsay, France
+C.Z. Antoine
+                       CEA-IRFU, Gif-sur-Yvette, France
+D. Longuevergne
+                       FLUO, Orsay, France
+
+ 
+
+
+ 
+
+Funding: The financial support from the European Nuclear Science and Applications Research 2 (ENSAR 2) under grant agreeement N°654002.
+Optimization of SRF cavities mainly focuses on pushing the limits of bulk Niobium, cost reduction of cavity fabrication and development of new SRF materials for future accelerators (ILC, FCC). Nowadays chemical etching is the only surface treatment used to prepare SRF surface made of Nb. However the operational cost of chemical facilities is high and these present a very bad ecological footprint. The search of an alternative technique could make the construction of these future large scale facilities possible. Metallographic polishing (MP) is a candidate not only for bulk Nb treatment, but could also provide the mirror-finished substrate for alternative SRF thin films deposition. Recent R&D studies, conducted at IPNO & IRFU, focused on the development of 2-steps MP procedure of Nb flat samples. Roughness of polished surface has been proven better than standard EP treatment and less polluted than CBP. MP provides on flat surfaces a high removal rate (above 1 µm/min) and high reproducibility. The paper will describe the optimized method and present all the surface analysis performed. The first RF characterization of a polished disk will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP002
+
+ 
+
+
+About •
+paper received ※ 20 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP012
+Nitrogen Doping Studies of Superconducting Cavities at Peking University
+ 
+
+
+MOP039
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Chen, M. Chen, L.W. Feng, J.K. Hao, L. Lin, K.X. Liu, S.W. Quan, F. Wang, F. Zhu
+                       PKU, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+Nitrogen doping studies with 1.3 GHz superconducting cavities were carried out at Peking University in recent years. We have realized 4×1010 of high quality factor at 12 MV/m and 2.0 K with large grain single cell cavities by heavy doping. To improve the accelerating gradient of high Q cavities, light doping recipe is adopted. Accelerating gradient is improved to 20 MV/m and the quality factor is larger than 3×1010 at 16 MV/m and 2.0 K for light doped cavities. The nitrogen treatment, test and analysis are presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP039
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP013
+Lower Critical Field Measurement of NbN Multilayer Thin Film Superconductor at KEK
+ 
+
+
+TUP078
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+H. Ito
+                       Sokendai, Ibaraki, Japan
+C.Z. Antoine
+                       CEA-IRFU, Gif-sur-Yvette, France
+H. Hayano, R. Katayama, T. Kubo, T. Saeki
+                       KEK, Ibaraki, Japan
+R. Ito, T. Nagata
+                       ULVAC, Inc, Chiba, Japan
+Y. Iwashita, H. Tongu
+                       Kyoto ICR, Uji, Kyoto, Japan
+
+ 
+
+
+ 
+
+Funding: The work is supported by Japan Society for the Promotion of Science Grant-in-Aid for Young Scientist (A) No.17H04839.
+The multilayer thin film structure of the superconductor has been proposed by A. Gurevich to enhance the maximum gradient of SRF cavities. The lower critical field Hc1 at which the vortex start penetrating the superconducting material will be improved by coating Nb with thin film superconductor such as NbN. It is expected that the enhancement of Hc1 depends on the thickness of each layer. In order to determine the optimum thickness of each layer and to compare the measurement results with the theoretical prediction proposed by T. Kubo, we developed the Hc1 measurement system using the third harmonic response of the applied AC magnetic field at KEK. For the Hc1 measurement without the influence of the edge or the shape effects, the AC magnetic field can be applied locally by the solenoid coil of 5mm diameter in our measurement system. ULVAC made the NbN-SiO2 multilayer thin film samples of various NbN thicknesses. In this report, the measurement result of the bulk Nb sample and NbN-SiO2 multilayer thin film samples of different thickness of NbN layer will be discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUP078
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP014
+Progress Towards Commissioning the Cornell DC Field Dependence Cavity
+ 
+
+
+TUP051
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+J.T. Maniscalco, T. Gruber, A.T. Holic, M. Liepe
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+The Cornell DC Field Dependence Cavity is a new coaxial test resonator designed to study the impact of strong (up to 200 mT or more) DC surface magnetic fields on the superconducting surface resistance, providing physical insight into the root of the ‘‘anti-Q-slope’’ and probing critical fields. In this report we report progress in the commissioning of this new apparatus, including finalized design elements and results of prototype tests.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUP051
+
+ 
+
+
+About •
+paper received ※ 25 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP015
+Deposition of Nb3Sn Films by Multilayer Sequential Sputtering for SRF Cavity Application
+ 
+
+
+TUP079
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Md.N. Sayeed, H. Elsayed-Ali
+                       ODU, Norfolk, Virginia, USA
+M.C. Burton, G.V. Eremeev, C.E. Reece, A-M. Valente-Feliciano
+                       JLab, Newport News, Virginia, USA
+U. Pudasaini
+                       The College of William and Mary, Williamsburg, Virginia, USA
+
+ 
+
+
+ 
+
+Nb3Sn is considered as an alternative of Nb for SRF accelerator cavity application due to its potential to obtain higher quality factors and higher accelerating gradients at a higher operating temperature. Magnetron sputtering is one of the effective techniques that can be used to fabricate Nb3Sn on SRF cavity surface. We report on the surface properties of Nb3Sn films fabricated by sputtering multiple layers of Nb and Sn on sapphire and niobium substrates followed by annealing at 950°C for 3 h. The crystal structure, film microstructure, composition and surface roughness were characterized by X-ray diffraction (XRD), scanning electron microscopy (SEM), energy dispersive X-ray spectroscopy (EDS), and atomic force microscopy (AFM). The RF performance of the Nb3Sn coated Nb substrates were measured by a surface impedance characterization system. We also report on the design of a multilayer sputter deposition system to coat a single-cell SRF cavity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUP079
+
+ 
+
+
+About •
+paper received ※ 22 June 2019       paper accepted ※ 01 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP016
+Investigation of Frequency Behavior Near Tc of Niobium Superconducting Radio-Frequency Cavities
+ 
+
+
+MOP031
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+D. Bafia, J. Zasadzinski
+                       IIT, Chicago, Illinois, USA
+D. Bafia, M. Checchin, A. Grassellino, O.S. Melnychuk, A.S. Romanenko, D.A. Sergatskov
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+This paper will present a systematic investigation of the resonant frequency behavior of niobium SRF cavities subject to different surface processing (nitrogen doping, nitrogen infusion, 120°C bake, EP, etc.) near the critical transition temperature. We find features occurring in frequency versus temperature (FvsT) data near Tc that seem to vary with surface processing. Emphasis is placed on one of the observed features: a dip in the superconducting resonant frequency below the normal conducting value which is prominent in nitrogen doped cavities and appears to be a signature of nitrogen doping. This gives further insights on the mechanisms responsible for the large increase in performance of cavities subject to this surface treatment. The magnitude of this dip in frequency is studied and related to possible physical parameters such as the concentration of impurities near the surface and the design resonant frequency of the cavity. A possible explanation for the meaning of this dip is discussed, namely, that it is a result of strong coupling between electrons and phonons within the resonator.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP031
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP017
+RF Commissioning of the CBETA Main Linac Cryomodule
+ 
+
+
+THP023
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+N. Banerjee, J. Dobbins, G.H. Hoffstaetter, R.P.K. Kaplan, M. Liepe, C.W. Miller, P. Quigley, E.N. Smith, V. Veshcherevich
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work was performed through the support of New York State Energy Research and Development Agency (NYSERDA).
+The Cornell BNL ERL Test Accelerator (CBETA) employs a superconducting Main Linac Cryomodule in order to perform multi-turn energy recovery operation. Optimizing the field stability of the low bandwidth SRF cavities in the presence of microphonics with limited available RF power is a challenging task. Despite of this, the Main Linac Cryomodule has been successfully used in CBETA to impart a maximum energy gain of 54 MeV, well above the energy gain requirement of CBETA. In this paper, we present an overview of our RF commissioning procedure including automatic coarse tuning, measurement of DAC and phase offsets. We further detail our microphonics measurements from our most recent run period.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP023
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP018
+Study of Surface Treatment of 1.3 GHz Single-cell Copper Cavity for Niobium Sputtering
+ 
+
+
+TUP068
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+F.Y. Yang, J. Dai, P. He, Z.Q. Li, Y. Ma, P. Zhang
+                       IHEP, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+Funding: This work has been supported in part by PAPS project and National Key Programme for S&T Research and Development (Grant NO.: 2016YFA0400400)
+A R&D program on niobium sputtering on copper cavities has started at IHEP in 2017. Single-cell 1.3 GHz copper cavity has been chosen as a substrate. A chemical polishing system has subsequently developed and commissioned recently to accommodate the etching of both copper samples and a cavity. Different polishing agents have been tested on copper samples and later characterized. The results of these surface treatment tests are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUP068
+
+ 
+
+
+About •
+paper received ※ 20 June 2019       paper accepted ※ 03 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP019
+Development of Temperature and Magnetic Field Mapping System for Superconducting Cavities at KEK
+ 
+
+
+TUP060
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+T. Okada, E. Kako, T. Konomi, H. Sakai, K. Umemori
+                       Sokendai, Ibaraki, Japan
+E. Kako, T. Konomi, M. Masuzawa, H. Sakai, K. Tsuchiya, R. Ueki, K. Umemori
+                       KEK, Ibaraki, Japan
+A. Poudel, T. Tajima
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+A temperature and magnetic field mapping system for a single cell superconducting cavity is being developed at KEK. The mapping system is used to observe the temperature distribution and the ambient magnetic field distribution around the outer surface of the cavity. A total of 36 boards at every 10 degrees are attached on the cavity. Each board consists of 15 carbon resistors of 100 Ω at room temperature and 3 AMR sensors of X, Y and Z directions at the equator. The calibration of the resisters and AMR sensors were carefully and precisely carried out at low temperature. The data logging system using NI loggers is enabled to measure within 1 ms in the whole cavity surface. The initial test results in the vertical test of the single-cell cavity will be reported in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUP060
+
+ 
+
+
+About •
+paper received ※ 05 July 2019       paper accepted ※ 05 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP020
+High Frequency Nb3Sn Cavities
+ 
+
+
+MOP011
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+R.D. Porter, M. Liepe, J.T. Maniscalco
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Niobium-3 Tin (Nb3Sn) is an alternative material to Nb for SRF cavities. This material is capable of higher temperature operation and has high theoretical maximum accelerating gradients. Cornell University is a leader in the development of this material for SRF applications, and current Nb3Sn 1.3 GHz single cells produced at Cornell achieve quality factors above 10zEhNZeHn at 4.2 K at medium fields, far above what can be reached with niobium. Most of the recent Nb3Sn cavity development has been done at 1.3 GHz. In this paper, we present new results from Nb3Sn cavities at 2.6 GHz and 3.9 GHz. We compare relative cavity performance and flux trapping sensitivities, and extract frequency dependencies. Results show that the frequency can be increased without degrading the performance of the cavities, opening the path towards a new generation of compact and efficient SRF cavities for a wide range of future applications.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP011
+
+ 
+
+
+About •
+paper received ※ 05 July 2019       paper accepted ※ 12 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP021
+RF Characterization of Novel Superconducting Materials and Multilayers
+ 
+
+
+THP044
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+T.E. Oseroff, M. Liepe, Z. Sun
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+B. Moeckly
+                       STI, Santa Barbara, California, USA
+M.J. Sowa
+                       Veeco-CNT, Medford, USA
+
+ 
+
+
+ 
+
+Cutting edge SRF technology is likely approaching the fundamental limitations of niobium cavities operating in the Meissner state. This combined with the obvious advantages of using higher critical temperature superconductors and thin film depositions leads to interest in the RF characterization of such materials. A TE mode niobium sample host cavity was used to characterize the RF performance of 5" (12.7 cm) diameter sample plates as a function of field and temperature at 4 GHz. Materials studied include MgB2 and thin film atomic layer deposition (ALD) NbN and NbTiN on Nb substrates. These higher critical temperature superconductors all having coherence lengths on the order of a few nm. It is therefore likely that defects on the order of the coherence lengths will cause early flux penetration well before the theorized superheating field of an ideal superconducting surface. Superconductor-insulator-superconductor (SIS) multilayers have been proposed as a mechanism of arresting these early penetration flux avalanches and are therefore studied here as well, using the same NbN and NbTiN films, but over thin layers of insulating AlN on Nb substrates.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP044
+
+ 
+
+
+About •
+paper received ※ 02 July 2019       paper accepted ※ 03 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP022
+Plasma Processing to Reduce Field Emission in LCLS-II 1.3 GHz SRF Cavities
+ 
+
+
+FRCAB7
+  use link to access more material from this paper's primary paper code
+ 
+
+
+TUP067
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+B. Giaccone, J. Zasadzinski
+                       IIT, Chicago, Illinois, USA
+P. Berrutti, B. Giaccone, A. Grassellino, M. Martinello
+                       Fermilab, Batavia, Illinois, USA
+M. Doleans
+                       ORNL, Oak Ridge, Tennessee, USA
+D. Gonnella, G. Lanza, M.C. Ross
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Plasma cleaning for LCLS-II 9-cell 1.3 GHz cavities is under study at Fermilab. Starting from ORNL method, we have developed a new technique for plasma ignition using HOMs. Plasma processing is being applied to contaminated and field emitting cavities, here are discussed the first results in terms of Q and radiation vs E measured before and after treatment. Further studies are ongoing to optimize plasma parameters and to acquire statistics on plasma cleaning effectiveness.
+
+ 
+
+
+
+
+
+
+Slides SUSP022 [14.701 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-FRCAB7
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 04 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP023
+Ab Initio Calculations on the Growth and Superconducting Properties of Nb3Sn
+ 
+
+
+MOP010
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+N. Sitaraman, T. Arias, P. Cueva, M.M. Kelley, D.A. Muller
+                       Cornell University, Ithaca, New York, USA
+J.M. Carlson, A.R. Pack, M.K. Transtrum
+                       Brigham Young University, Provo, USA
+M. Liepe, R.D. Porter, Z. Sun
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: This research was funded by the Center for Bright Beams.
+In this work, we employ theoretical ab initio techniques to solve mysteries and gain new insights in Nb3Sn SRF physics. We determine the temperature dependence of Nb3Sn antisite defect formation energies, and discuss the implications of these results for defect segregation. We calculate the phonon spectral function for Nb3Sn cells with different combinations of antisite defects and use these results to determine Tc as a function of stoichiometry. These results allow for the first-ever determination of Tc in the tin-rich regime, where experimental measurements are unavailable and which is critical to understanding the impact of tin-rich grain boundaries on superconducting cavity performance. Finally, we propose a theory for the growth mechanism of Nb3Sn growth on a thick oxide, explaining the puzzling disappearing droplet behavior of Sn on Nb oxide and suggesting how in general an oxide layer reacts with Sn to produce a uniform Nb3Sn layer.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP010
+
+ 
+
+
+About •
+paper received ※ 02 July 2019       paper accepted ※ 03 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP024
+Surface Preparation and Optimization of SC CH Cavities
+ 
+
+
+MOP019
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+P. Müller, M. Basten, M. Busch, T. Conrad, H. Podlech
+                       IAP, Frankfurt am Main, Germany
+K. Aulenbacher, F.D. Dziuba, M. Miski-Oglu
+                       HIM, Mainz, Germany
+W.A. Barth
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The Institute of Applied Physics (IAP) introduced the superconducting multi-gap CH-structure, which is mainly designed for low beta hadron acceleration. In 2017, a 217 MHz sc CH-structure was successfully tested with beam at GSI and multiple CH-structures are currently under development for the GSI cw linac. RF performance of all sc cavities are limited by the surface properties of the used material. Therefore, sufficient surface preparation and optimization is necessary to achieve optimal performance. Presently as standard procedure BCP and HPR is used for CH-cavities. Several surface treatments will be applied to the very first CH-prototype, a 360 MHz, 19-cell cavity. Prior to the first treatment, the status of the cavity was examined, including leak tests and performance tests at 4 and 2 K. This paper presents the performance development of a sc CH cavity depending on different preparation methods.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP019
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 05 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP026
+Investigation of the Critical RF Fields of Superconducting Cavity Connections
+ 
+
+
+MOP070
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+J.C. Wolff, J.I. Iversen, D. Klinke, D. Kostin, D. Reschke, S. Sievers, A. Sulimov, J.H. Thie, M. Wiencek
+                       DESY, Hamburg, Germany
+R. Wendel, J.C. Wolff
+                       HAW Hamburg, Hamburg, Germany
+
+ 
+
+
+ 
+
+To optimise the length of the drift tube of a superconducting cavity (SC), it is required to know the critical value of the RF fields to prevent a potential early quench at the flange connection in case of a drift tube length reduction. To avoid changes on the SC which has been used for the tests, all RF cryogenic experiments have been carried out by using a cylinder in the center of a 1-cell cavity drift tube to increase the field magnitude at the connection. This cylinder has been designed and optimised by RF simulations to provide a field density at the connection twice as high as at a chosen reference point near the iris. Hence also a test SC with a comparatively low gradient can be used without causing field restrictions. In this contribution an approach to investigate the field limitations of 1.3 GHz TESLA-Shape SC connections and thereby the minimal drift tube length based on simulations will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP070
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 04 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP028
+Quadrupole Scan Transverse Emittance Measurements at HZDR ELBE
+ 
+
+
+THP083
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Ma, A. Arnold, A.A. Ryzhov, J. Schaber, J. Teichert, R. Xiang, K. Zhou
+                       HZDR, Dresden, Germany
+
+ 
+
+
+ 
+
+Two quadrupoles and one screen are used for beam transverse emittance measurements at HZDR ELBE. In this paper, the emittance calculated with two different methods, one with thin-lens approximation and the other one without this approximation, are compared and analized. To analyze the measurement error, quadrupole calibration is need. Two aspects about quadrupole analysis are made. The first one is quadrupole¿s effective length and strength and the second one is quadrupole¿s converged or diverged ability in reality.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP083
+
+ 
+
+
+About •
+paper received ※ 25 June 2019       paper accepted ※ 03 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP030
+Measurement of the Magnetic Field Penetration into Superconducting Thin Films
+ 
+
+
+THP050
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+I.H. Senevirathne, G. Ciovati, J.R. Delayen
+                       ODU, Norfolk, Virginia, USA
+G. Ciovati, J.R. Delayen
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+The magnetic field at which first flux penetrates is a fundamental parameter characterizing superconducting materials for SRF cavities. Therefore, an accurate technique is needed to measure the penetration of the magnetic field directly. The conventional magnetometers are inconvenient for thin superconducting film measurements because these measurements are strongly influenced by orientation, edge and shape effects. In order to measure the onset of field penetration in bulk, thin films and multi-layered superconductors, we have designed, built and calibrated a system combining a small superconducting solenoid capable of generating surface magnetic field higher than 500 mT and Hall probe to detect the first entry of vortices. This setup can be used to study various promising alternative materials to Nb, especially SIS multilayer coatings on Nb that have been recently proposed to delay the vortex penetration in Nb surface. In this paper, the system will be described and calibration will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP050
+
+ 
+
+
+About •
+paper received ※ 20 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP031
+Design and Commissioning of a Magnetic Field Scanning System for SRF Cavities
+ 
+
+
+TUP052
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+I.P. Parajuli, J.R. Delayen, A.V. Gurevich, J. Nice
+                       ODU, Norfolk, Virginia, USA
+G. Ciovati, W.A. Clemens, J.R. Delayen
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by NSF Grant 100614-010. G. C. is supported by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+Trapped magnetic vortices are one of the leading sources of residual losses in SRF cavities. Mechanisms of flux pinning depend on the materials treatment and cool-down conditions. A magnetic field scanning system using flux-gate magnetometers and Hall probes has been designed and built to allow measuring the local magnetic field of trapped vortices normal to the outer surface of 1.3 GHz single-cell SRF cavities at cryogenic temperatures. Such system will allow inferring the key information about the distribution and magnitude of trapped flux in the SRF cavities for different material, surface preparations and cool-down conditions.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUP052
+
+ 
+
+
+About •
+paper received ※ 22 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP033
+Nonlinear Dynamics and Dissipation of Vortex Lines Driven by Strong RF Fields
+ 
+
+
+TUP055
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M.R.P. Walive Pathiranage, A.V. Gurevich
+                       ODU, Norfolk, Virginia, USA
+
+ 
+
+
+ 
+
+Trapped vortices can contribute significantly to a residual surface resistance of superconducting radio frequency (SRF) cavities but the nonlinear dynamics of flexible vortex lines driven by strong rf currents has not been well understood. Here we report extensive numerical simulations of large-amplitude oscillations of a trapped vortex line under the strong rf magnetic field. The rf power dissipated by an oscillating vortex segment driven by the rf Meissner currents was calculated by taking into account the nonlinear vortex line tension, vortex mass and a nonlinear Larkin-Ovchinnikov and overheating viscous drag force. We calculated the field dependence of the surface resistance Rs and showed that at low frequencies Rs(H) increases with H but as the frequency increases, Rs(H) becomes a non-monotonic function of H which decreases with H at higher fields. These results suggest that trapped vortices can contribute to the extended Q(H) rise observed on the SRF cavities.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUP055
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 05 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP034
+Modular Power Couplers for 217 MHz Superconducting CH-Cavities
+ 
+
+
+MOP050
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+J. List, K. Aulenbacher, W.A. Barth, C. Burandt, F.D. Dziuba, V. Gettmann, T. Kürzeder, S. Lauber, M. Miski-Oglu
+                       HIM, Mainz, Germany
+K. Aulenbacher, W.A. Barth, C. Burandt, V. Gettmann, M. Heilmann, T. Kürzeder, S. Lauber, J. List, M. Miski-Oglu, A. Schnase, S. Yaramyshev
+                       GSI, Darmstadt, Germany
+K. Aulenbacher, F.D. Dziuba, S. Lauber, J. List
+                       IKP, Mainz, Germany
+M. Basten, M. Busch, H. Podlech, M. Schwarz
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+The HELmholtz LInear ACcelerator (HELIAC) is being developed by a collaboration of HIM, GSI and the Goethe University of Frankfurt. It is a superconducting (sc), continuous wave (cw) heavy ion linac that comprises novel Crossbar H-mode (CH) cavities. In April 2017 and November/December 2018 the first sc CH-cavity of the linac was tested with beam. The first operations of the cavity showed, that the prototype of the rf power coupler needs to be further improved. A new version of the coupler is being designed at the HIM. Further development will mainly be focused on the heat input into the cryostat caused by the coupler. Also the coupler will have a modular design. This improves the accessibility and maintenance of the coupler. Various cryogenic and rf tests are foreseen, to provide a reliable, fail-safe coupler for the HELIAC. For an enhanced coupler test stand a movable reflector has been designed and built. With its movable semi-reflective element, it allows to operate the test stand in a resonance mode. In addition, the movable reflector can vary the coupling factor. This contribution discusses the recent coupler R&D for the HELIAC.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP050
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP036
+Electroplating of Sn Film on Nb Substrate for Generating Nb3Sn Thin Films and Post Laser Annealing
+ 
+
+
+MOP014
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Z. Sun, M. Liepe, T.E. Oseroff, R.D. Porter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+T. Arias, A.B. Connolly, J.M. Scholtz, N. Sitaraman, M.O. Thompson
+                       Cornell University, Ithaca, New York, USA
+X. Deng
+                       University of Virginia, Charlottesville, Virginia, USA
+K.D. Dobson
+                       University of Delaware, Newark, Delaware, USA
+
+ 
+
+
+ 
+
+Controlling film quality of Nb3Sn is critical to its SRF cavity performance. The state-of-the-art vapor diffusion approach for Nb3Sn deposition observed surface roughness, thin grain regions, and misfit dislocations which negatively affect the RF performance. The Sn deficiency and non-uniformity at the nucleation stage of vapor deposition is believed to be the fundamental reason to cause these roughness and defects issues. Thus, we propose to pre-deposit a uniform Sn film on the Nb substrate, which is able to provide sufficient Sn source during the following heat treatment for Nb3Sn nucleation and growth. Here, we demonstrated successful electrodeposition of a low-roughness, dendrite-free, excellent-adhesion Sn film on the Nb substrate. More importantly, we further achieved a uniform, low-roughness (Ra = 66 nm), pure-stoichiometric Nb3Sn film through thermal treatment of this electroplated Sn film in the furnace. Additionally, we provide preliminary results of laser annealing as a post treatment for epitaxial grain growth and roughness reduction.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP014
+
+ 
+
+
+About •
+paper received ※ 22 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP037
+Characterization of Flat Multilayer Thin Film Superconductors
+ 
+
+
+THP048
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+D. Turner, A.J. May
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+G. Burt, L. Gurran
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+K.D. Dumbell, N. Pattalwar, S.M. Pattalwar
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+T. Junginger, O.B. Malyshev
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+The maximum accelerating gradient of SRF cavities can be increased by raising the field of initial flux penetration, Hvp. Thin alternating layers of superconductors and insulators (SIS) can potentially increase Hvp. Magnetometry is commercially available but consists of limitations, such as SQUID measurements apply a field over both superconducting layers, so Hvp through the sample cannot be measured. If SIS structures are to be investigated a magnetic field must be applied locally, from one plane of the sample, with no magnetic field on the opposing side to allow Hvp to be measured. A magnetic field penetration experiment has been developed at Daresbury laboratory, where a VTI has been created for a cryostat where Hvp of a sample can be measured. The VTI has been designed to allow flat samples to be measured to reduce limitations such as edge effects by creating a DC magnetic field smaller than the sample. A small, parallel magnetic field is produced on the sample by the use of a ferrite yoke. The field is increased to determine Hvp by using 2 hall probes either side of the sample.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP048
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP038
+Reconstruction of the Longitudinal Phase Space for the Superconducting CW HELIAC
+ 
+
+
+THP103
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Lauber, K. Aulenbacher, W.A. Barth, C. Burandt, F.D. Dziuba, V. Gettmann, T. Kürzeder, J. List, M. Miski-Oglu
+                       HIM, Mainz, Germany
+K. Aulenbacher, W.A. Barth, C. Burandt, F.D. Dziuba, P. Forck, V. Gettmann, M. Heilmann, T. Kürzeder, S. Lauber, J. List, M. Miski-Oglu, T. Sieber, S. Yaramyshev
+                       GSI, Darmstadt, Germany
+K. Aulenbacher, F.D. Dziuba, S. Lauber
+                       IKP, Mainz, Germany
+H. Podlech, M. Schwarz
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+The superconducting (SC) heavy ion HElmholtz LInear ACcelerator (HELIAC) is under development at GSI in Darmstadt in cooperation with Helmholtz Institute Mainz (HIM) and Goethe-University Frankfurt (GUF). A novel design is used for the accelerating cavities, namely SC continuous wave (CW) multigap Crossbar H-Mode cavities. For this a dedicated beam dynamics layout - the EQUidistant mUltigap Structure (EQUUS) - has been carried out a couple of years ago and is under further development. In December 2018 the GSI High Charge State Injector (HLI) delivered heavy ion beam to the already commissioned first of series superconducting RF cavity. Proper 6D-matching to the CH cavity demands sufficient beam characterisation. Slit-grid emittance measurements provided for the transverse phase space determination. By measuring the longitudinal projection of the bunch with a Feschenko Monitor (Beam Shape Monitor), the bunch profile was obtained. With a dedicated algorithm, the full longitudinal phase space at the HLI-exit could be reconstructed from a set of BSM measurements. The basic reconstruction method, all relevant BSM measurements and the resulting phase space reconstruction will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP103
+
+ 
+
+
+About •
+paper received ※ 19 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP039
+Thermal Load Studies on the Photocathode Insert with Exchangeable Plug for the BERLinPro SRF-Photoinjector
+ 
+
+
+TUP100
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+J. Kühn, N. Al-Saokalpresenter, M. Bürger, M. Dirsat, A. Frahm, A. Jankowiak, T. Kamps, G. Klemz, S. Mistry, A. Neumann, H. Plötz
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+For the operation of an SRF photoinjector a well-functioning and efficient cooling system of the photocathode is necessary. A test experiment was set up of the photocathode cooling system based on the original components, which we call thermal contact experiment (TCX). We present the results of our thermal load studies on the photocathode insert with exchangeable photocathode plug. The goal was to test all components before they are installed in the cold string of the BERLinPro SRF-Photoinjector to ensure the operation of very sensitive semiconductor photocathodes. The tests include the investigation of the cooling performance, the thermal load management and the mechanical stability of the photocathode insert.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUP100
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP041
+Numerical Estimation of Beam Break-Up Instability in TESLA Cavities
+ 
+
+
+THP104
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+V. Volkov, V.M. Petrov
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+In this article the numerically estimated BBU instability behaviors of a 9 cell superconducting TESLA cavity are presented for first two pass-band trapped dipole modes (18 in all). The given BBU threshold current values are calculated by the method of beam energy gain averaging on phases of dipole mode fields. BBU instability behaviors in cases of applying the cavities in Linacs as well in Energy Recovery Linacs (ERLs) are considered. The BBU influence on beam emittance degradation is demonstrated. Examples for suppression of beam BBU oscillations by a solenoid focusing and applying of an external RF generator with a feedback are visualized.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP104
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 02 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUSP042
+Design and Fabrication of a Quadrupole-Resonator for Sample R&D
+ 
+
+
+THP004
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+R. Monroy-Villa, D. Reschke, M. Wenskat
+                       DESY, Hamburg, Germany
+W. Hillert, R. Monroy-Villa, M. Wenskat
+                       University of Hamburg, Institut für Experimentalphysik, Hamburg, Germany
+S. Keckert, O. Kugeler, D.B. Tikhonov
+                       HZB, Berlin, Germany
+P. Putek, S.G. Zadeh, U. van Rienen
+                       Rostock University, Faculty of Computer Science and Electrical Engineering, Rostock, Germany
+U. van Rienen
+                       University of Rostock, Rostock, Germany
+
+ 
+
+
+ 
+
+Being able to obtain BCS and material properties from the same surface is necessary to gain a fundamental understanding of the evolution of SRF surfaces. A test resonator which will allow to obtain BCS properties from samples is currently under development at the University of Hamburg and DESY and is based on the Quadrupole Resonators developed and operated at CERN and HZB. The current status of the necessary infrastructure, the procurement process and design considerations are shown. In addition, an outline of the planed R&D project with the Quadrupole Resonator will be presented and first RF measurements and surface analysis results of samples will be shown
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-THP004
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

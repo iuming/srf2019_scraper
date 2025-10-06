@@ -1,7 +1,7 @@
 Session: TUP - Tuesday Poster Session
 Session ID: TUP
 URL: https://proceedings.jacow.org/srf2019/html/tup.htm
-Scrape time: 2025-10-02 14:03:30
+Scrape time: 2025-10-06 16:11:13
 Paper count: 82
 Available presentations: 0/82
 Available papers: 81/82

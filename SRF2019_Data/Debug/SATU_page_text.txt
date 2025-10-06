@@ -1,0 +1,205 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRF2019 - Table of Session: SATU (Tutorials on Saturday)
+
+
+SATU —  Tutorials on Saturday   (29-Jun-19   09:00—17:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+SATU1
+Beam-cavity Interaction and Operational Aspects of SRF Systems With Beam
+ 
+
+
+ 
+
+S.A. Belomestnykh
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Beam-cavity Interaction and Operational Aspects of SRF Systems With Beam
+
+ 
+
+
+
+
+
+
+Slides SATU1 [19.812 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SATU2
+LLRF Controls and RF Operation
+ 
+
+
+ 
+
+J. Branlard
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+This tutorial presents the challenges and techniques involved in low level radio frequency (LLRF) controls of superconducting (SRF) cavities. The fundamentals of the electro-mechanical model of SRF cavities are recalled; the principles of frequency and bandwidth tuning and its impact on cavity field regulation are presented as well. The basic elements of standard digital LLRF systems are introduced: feed forward, feedback, up and down conversion, sampling, IQ detection and digital processing. The difference between single cavity regulation and vector sum control, pulsed and continuous wave operation are discussed. When applicable, the introduced concepts will be illustrated with real examples, taken from machine operation.
+
+ 
+
+
+
+
+
+
+Slides SATU2 [9.177 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SATU3
+Fundamentals of Cryomodule Design and Cryogenics
+ 
+
+
+ 
+
+B. Petersen
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Some considerations and specifications for cryomodule design are discussed for different accelerator applications. The cryomodule design as well as the layout of the cryogenic distribution scheme have to be adapted to the particular accelerator requirements. Disregarding the differences, the various cryomodule designs share several common fundamental features like thermal insulation and RF cavity alignment. Examples for cryomodule designs are shown with reference to the ESS and XFEL cryomodules. Some criteria for the choice of the superconducting cavity operation temperature are discussed. Fundamental elements of helium refrigerators are shown. In particular, different options for subatmospheric Helium II bath cooling are illustrated. The importance of Helium bath pressure stability for the RF operation of superconducting cavities is clarified. Some methods to adapt the refrigerator operation to RF load changes or to compensate the RF load changes are explained. The XFEL linac cryogenic system layout is presented as an example.
+
+ 
+
+
+
+
+
+
+Slides SATU3 [5.260 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SATU4
+Methods and Simulation Tools for Cavity Design
+ 
+
+
+ 
+
+H.-W. Glock
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+Methods and Simulation Tools for Cavity Design
+
+ 
+
+
+
+
+
+
+Slides SATU4 [43.324 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

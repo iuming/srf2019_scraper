@@ -1,7 +1,7 @@
 Session: THFUA - Fundamental 3
 Session ID: THFUA
 URL: https://proceedings.jacow.org/srf2019/html/thfua.htm
-Scrape time: 2025-10-02 14:13:57
+Scrape time: 2025-10-06 16:20:52
 Paper count: 7
 Available presentations: 6/7
 Available papers: 3/7

@@ -1,7 +1,7 @@
 Session: MOP - Monday Poster Session
 Session ID: MOP
 URL: https://proceedings.jacow.org/srf2019/html/mop.htm
-Scrape time: 2025-10-02 13:54:05
+Scrape time: 2025-10-06 16:02:15
 Paper count: 72
 Available presentations: 0/72
 Available papers: 72/72

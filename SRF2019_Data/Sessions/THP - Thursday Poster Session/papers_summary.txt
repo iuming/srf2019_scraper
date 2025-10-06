@@ -1,7 +1,7 @@
 Session: THP - Thursday Poster Session
 Session ID: THP
 URL: https://proceedings.jacow.org/srf2019/html/thp.htm
-Scrape time: 2025-10-02 14:17:27
+Scrape time: 2025-10-06 16:23:46
 Paper count: 83
 Available presentations: 0/83
 Available papers: 80/83

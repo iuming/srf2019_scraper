@@ -1,7 +1,7 @@
 Session: TUFUB - Fundamental 2
 Session ID: TUFUB
 URL: https://proceedings.jacow.org/srf2019/html/tufub.htm
-Scrape time: 2025-10-02 14:00:58
+Scrape time: 2025-10-06 16:08:37
 Paper count: 7
 Available presentations: 7/7
 Available papers: 4/7

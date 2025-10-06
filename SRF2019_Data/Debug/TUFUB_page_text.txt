@@ -1,0 +1,389 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRF2019 - Table of Session: TUFUB (Fundamental 2)
+
+
+TUFUB —  Fundamental 2   (02-Jul-19   10:30—12:30)
+Chair: M. Liepe, Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUFUB1
+Direct Correlation of State of the Art Cavity Performance With Surface Nb Nano-Hydrides Cutouts Observed via Cryogenic AFM
+ 
+
+
+ 
+
+Z-H. Sung
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+There was no abstract provided by the author.
+
+ 
+
+
+
+
+
+
+Slides TUFUB1 [8.368 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUFUB2
+New Insights into RF Field Amplitude and Frequency Dependence of Vortex Surface Resistance
+ 
+
+
+ 
+
+M. Checchin
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+In this talk, the surface resistance due to trapped vortices is being described. Experimental data acquired at Fermilab for bulk niobium elliptical cavities as a function of frequency, trapped magnetic field value and RF field amplitude will be presented. Numerical calculations of the vortex dynamics under RF drive will be also presented in order to describe the mechanism underneath the RF field amplitude dependence of the surface resistance due to trapped vortices. Different pinning landscapes in the material will be taken into consideration, aiming to pinpoint the pinning configuration that better describes the observed field dependence.
+
+ 
+
+
+
+
+
+
+Slides TUFUB2 [6.486 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUFUB3
+Mapping Flux Trapping in SRF Cavities to Analyze the Impact of Geometry
+364
+
+
+ 
+
+F. Kramer, J. Knobloch, O. Kugeler, J.M. Köszegi
+                       HZB, Berlin, Germany
+J. Knobloch
+                       University of Siegen, Siegen, Germany
+
+ 
+
+
+ 
+
+A combined temperature and magnetic field mapping system was used to investigate the impact of an ambient field on trapped flux and on the resulting local surface resistance. For this, a 1.3 GHz TESLA single cell cavity was cooled through the superconducting transition at different magnetic field angles with respect to the cavity axis. The measurements suggest, that the field is trapped homogeneously over the cavity volume, without changing its orientation. Flux trapped perpendicular the surface contributed significantly more to the surface resistance, than trapped flux parallel to the surface.
+
+ 
+
+
+
+
+
+
+Slides TUFUB3 [12.777 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUFUB3
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 01 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUFUB4
+Microscopic Investigation of Flux Trapping Sites in Bulk Nb
+ 
+
+
+ 
+
+M. Martinello
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Flux expulsion efficiency of SRF cavities is strictly dependent on the properties of the material used for cavity fabrication. Some cavities improve their flux expulsion properties after being heath treated at high temperature (usually larger than 900°C), suggesting that flux trapping sites are intimately related to the material microstructure. In this presentation, results of a detailed microstructure analysis that aims to unavailing which features are culprit of pinning flux in bulk niobium cavities, will be presented.
+
+ 
+
+
+
+
+
+
+Slides TUFUB4 [31.040 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUFUB5
+Effects of Static Magnetic Fields on a Low-frequency TEM Class Superconducting Cavity
+370
+
+
+ 
+
+M.K. Ng, Z.A. Conway, M.P. Kelly, K.W. Shepard
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Systematic studies on the effect of magnetic fields on a 330 MHz superconducting (TEM-mode) half-wave cavity are presented. The practical application of the results is for a possible future 2 K operation in the ATLAS heavy-ion accelerator at Argonne. The low frequency and the integral stainless steel jacket, rather than titanium, provide important new data for this full production model low-beta cavity. The studies include multi-axial magnetic field measurements near the cavity surface due to ambient and applied fields. Cavity performance under different conditions is measured at temperatures ranging between 1.6 K and 4.5 K. A residual resistance of approximately 5-7 nΩ at 1.6 K is observed. Data suggest that an appreciable fraction arises from losses that are not due to flux trapping.
+
+ 
+
+
+
+
+
+
+Slides TUFUB5 [1.195 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUFUB5
+
+ 
+
+
+About •
+paper received ※ 24 June 2019       paper accepted ※ 14 August 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUFUB7
+Measurement of Surface Resistance Properties with Coaxial Resonators - Review
+374
+
+
+ 
+
+H. Park, S.U. De Silva, J.R. Delayen
+                       ODU, Norfolk, Virginia, USA
+
+ 
+
+
+ 
+
+Achieving ever decreasing surface resistance at higher field in superconducting RF accelerating structures is one of most outstanding developments in modern accelerators. The BCS theory has been used widely to estimate the surface resistance and to direct the technology. However, recent research results show that the behavior of the surface resistance further deviates from the BCS theory. So far the study on surface resistance was performed usually with cavities of single frequency which limited the study of frequency dependent surface resistance. The Center for Accelerator Science at Old Dominion University has designed and built several half wave coaxial cavities to study the frequency, temperature, and RF field dependence of surface resistance. TRIUMF in Canada also joined this line of research using such multi frequency quarter wave and half wave coaxial cavities. This type of multi mode cavity will allow us to systematically study the parameters affecting surface resistance on the same cavity surface. In this paper, we review the results ODU and TRIUMF collected so far and proper analysis methods.
+
+ 
+
+
+
+
+
+
+Slides TUFUB7 [3.551 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUFUB7
+
+ 
+
+
+About •
+paper received ※ 01 July 2019       paper accepted ※ 12 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUFUB8
+CVD Coated Copper Substrate SRF Cavity Research at Cornell University
+381
+
+
+ 
+
+M. Ge, T. Gruber, J.J. Kaufman, M. Liepe, J.T. Maniscalco, T.E. Oseroff, R.D. Porter, Z. Sun
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+V.M. Arrieta, S.R. McNeal
+                       Ultramet, Pacoima, California, USA
+
+ 
+
+
+ 
+
+Chemical vapor deposition (CVD) is a promising alternative to conventional sputter techniques for coating copper substrate cavities with high-quality superconducting films. Through multiple SRF-related DOE SBIR projects, Ultramet has developed CVD processes and CVD reactor designs for SRF cavities, and Cornell University has conducted extensive RF testing of CVD coated surfaces. Here we report results from thin-film CVD Nb3Sn coated copper test plates, and for thick-film CVD niobium on copper including full-scale single cell 1.3 GHz copper substrate cavities. Detailed optical inspection and surface characterization show high-quality and well-adhered coatings. No copper contamination is found. The Nb3Sn coated plates have a uniform Nb3Sn coating with a slightly low tin concentration (19 -22%), but a BCS resistance well in agreement with predictions. The CVD Nb coatings on copper plates demonstrate excellent adhesion characteristics and exceeded surface fields of 50 mT without showing signs of a strong Q-slope that is frequently observed in sputtered Nb cavities. Multiple single-cell 1.3 GHz copper cavities have been coated to date at Ultramet, and results from RF testing of these are presented and discussed.
+
+ 
+
+
+
+
+
+
+Slides TUFUB8 [12.488 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-TUFUB8
+
+ 
+
+
+About •
+paper received ※ 01 July 2019       paper accepted ※ 05 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

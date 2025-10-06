@@ -1,0 +1,3864 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRF2019 - Table of Session: MOP (Monday Poster Session)
+
+
+MOP —  Monday Poster Session   (01-Jul-19   14:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOP003
+Development of Nb3Sn Cavity Coating at IMP
+21
+
+
+ 
+
+Z.Q. Yang, H. Guo, Y. He, C.L. Li, Z.Q. Lin, M. Lu, T. Tan, P.R. Xiong, S.H. Zhang, S.X. Zhang
+                       IMP/CAS, Lanzhou, People’s Republic of China
+
+ 
+
+
+ 
+
+The A15 superconductor Nb3Sn is one of the most promising alternative materials to standard niobium for SRF applications. In this paper, we report our progress in the development of Nb3Sn cavity coating by vapor diffusion method at IMP. The evolutionary process of nucleation was analyzed. Influence of SnCl2 partial pressure inhomogeneity was studied. Less-nuclear zones were found on the surfaces of nucleation samples. The Nb3Sn film structure and composition were investigated and analyzed. In light of knowledge obtained above, the coating process was optimized. Finally, both 1.3 GHz and 650 MHz single cell cavities were coated and vertically tested both at 4 K and 2 K. Effect of low temperature baking (1000°C for 48 hs) on the RF performance of Nb3Sn cavity was studied. After baking, the Q drop in the low field region was eliminated and the Q in the intermediate field region was increased 8 times. The Q was 10 times larger than that of the Nb cavity at 4.2 K even in the case of the ambient field larger than 20 mGs. This study shows that the low temperature baking is an effective enrichment to the post treatment of the Nb3Sn cavity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP003
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 03 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP004
+Preparation of Pb-Photocathodes at National Centre for Nuclear Research in Poland – State of the Art
+25
+
+
+ 
+
+J. Lorkiewicz, I. Cieślik, P.J. Czuma, A.M. Kosińska, R. Nietubyć
+                       NCBJ, Świerk/Otwock, Poland
+J.K. Sekutowicz
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: We are currently using a financial support within "PolFEL - Polish Free Electron Laser" cofounded by the European Regional Development Fund.
+R&D activities related to preparation of the superconducting Pb photocathode layer on niobium substrate are ongoing at the National Centre for Nuclear Research (NCBJ) in cooperation with DESY, HZDR, HZB, BNL and other research institutes. The activities are part of the R&D program at DESY for the cw-upgrade of E-XFEL and for the newly approved free electron laser facility PolFEL to be built and operated at NCBJ. The optimization results obtained for the lead deposition on niobium and smoothing of the coated layers are reported. The photocathodes samples were tested for their surface morphology, microstructure and quantum efficiency in terms of the impact on the operation of all-superconducting RF electron injector, proposed for both facilities.
+
+ 
+
+
+
+
+
+
+Poster MOP004 [1.446 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP004
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP005
+The Facility for Rare Isotope Beams Superconducting Cavity Production Status and Findings Concerning Surface Defects
+31
+
+
+ 
+
+C. Compton
+                       NSCL, East Lansing, Michigan, USA
+H. Ao, J. Asciutto, K. Elliott, W. Hartung, S.H. Kim, E.S. Metzgar, S.J. Miller, J.T. Popielarski, L. Popielarski, K. Saito, T. Xu
+                       FRIB, East Lansing, Michigan, USA
+J. Craft
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661
+The Facility for Rare Isotope Beams (FRIB), located on the campus of Michigan State University (MSU) will require 324 Superconducting Radio Frequency (SRF) cavities in the driver linac. Four types of cavities of two classes, quarter-wave (β=0.041 and 0.085) and half-wave (β=0.29 and 0.53), will be housed in 46 cryomodules. To date, FRIB has tested over 300 cavities in vertical Dewar tests as part of the certification procedures. Incoming cavities, fabricated in industry, are sequenced through acceptance inspection and checked for non-conformance. If accepted, the cavities are processed, assembled onto a vertical test stand, and cold tested. A large database of cavity surface images has been collected with the aid of a borescope camera. Borescope inspection is a standard step that is performed at incoming inspection, post-acid bulk etch, and after failed tests (if necessary) for each cavity, in order to locate any non-conformances. Findings of surface defects relating to degraded cavity performance will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP005
+
+ 
+
+
+About •
+paper received ※ 02 July 2019       paper accepted ※ 13 August 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP007
+400 MHz Seamless Copper Cavity in the Framework of FCC Study
+36
+
+
+ 
+
+O. Azzolini, G. Keppel, C. Pirapresenter
+                       INFN/LNL, Legnaro (PD), Italy
+
+ 
+
+
+ 
+
+In the framework of the FCC study the production of 400 MHz copper cavities is one of the key challenges for the development of more efficient superconducting RF cavities. Any progress on substrate manufacturing and preparation will have an immediate impact on the final RF performance, as it was demonstrated by the seamless cavities produced for the HIE-ISOLDE project. Spinning is a potential alternative to conventional production methods of copper single and multi-cells. In this work is presented the first 400 MHz copper SRF cavity prototype produced via Spinning at Laboratori Nazionali di Legnaro of INFN. The production process is explained starting from a copper foil of 1000 mm diameter and 4mm thick to arrive to a seamless 400 MHz cavity. Moreover, the metrology of the cavity and the analysis of the influence of intermediate thermal treatments among each steps of cold work are shown.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP007
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 02 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP010
+Ab Initio Calculations on the Growth and Superconducting Properties of Nb3Sn
+39
+
+
+SUSP023
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+N. Sitaraman, T. Arias, P. Cueva, M.M. Kelley, D.A. Muller
+                       Cornell University, Ithaca, New York, USA
+J.M. Carlson, A.R. Pack, M.K. Transtrum
+                       Brigham Young University, Provo, USA
+M. Liepe, R.D. Porter, Z. Sun
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: This research was funded by the Center for Bright Beams.
+In this work, we employ theoretical ab initio techniques to solve mysteries and gain new insights in Nb3Sn SRF physics. We determine the temperature dependence of Nb3Sn antisite defect formation energies, and discuss the implications of these results for defect segregation. We calculate the phonon spectral function for Nb3Sn cells with different combinations of antisite defects and use these results to determine Tc as a function of stoichiometry. These results allow for the first-ever determination of Tc in the tin-rich regime, where experimental measurements are unavailable and which is critical to understanding the impact of tin-rich grain boundaries on superconducting cavity performance. Finally, we propose a theory for the growth mechanism of Nb3Sn growth on a thick oxide, explaining the puzzling disappearing droplet behavior of Sn on Nb oxide and suggesting how in general an oxide layer reacts with Sn to produce a uniform Nb3Sn layer.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP010
+
+ 
+
+
+About •
+paper received ※ 02 July 2019       paper accepted ※ 03 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP011
+High Frequency Nb3Sn Cavities
+44
+
+
+SUSP020
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+R.D. Porter, M. Liepe, J.T. Maniscalco
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Niobium-3 Tin (Nb3Sn) is an alternative material to Nb for SRF cavities. This material is capable of higher temperature operation and has high theoretical maximum accelerating gradients. Cornell University is a leader in the development of this material for SRF applications, and current Nb3Sn 1.3 GHz single cells produced at Cornell achieve quality factors above 10zEhNZeHn at 4.2 K at medium fields, far above what can be reached with niobium. Most of the recent Nb3Sn cavity development has been done at 1.3 GHz. In this paper, we present new results from Nb3Sn cavities at 2.6 GHz and 3.9 GHz. We compare relative cavity performance and flux trapping sensitivities, and extract frequency dependencies. Results show that the frequency can be increased without degrading the performance of the cavities, opening the path towards a new generation of compact and efficient SRF cavities for a wide range of future applications.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP011
+
+ 
+
+
+About •
+paper received ※ 05 July 2019       paper accepted ※ 12 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP013
+Reducing Surface Roughness of Nb3Sn Through Chemical Polishing Treatments
+48
+
+
+ 
+
+H. Hu, M. Liepe, R.D. Porterpresenter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Niobium-3 tin (Nb3Sn) is a promising alternative material for SRF cavities, with theoretical limits for critical temperatures and superheating fields reaching twice that of conventional Nb cavities. However, currently achievable accelerating gradients in Nb3Sn cavities are much lower than their theoretical limit. One limitation to the maximum accelerating gradient is surface magnetic field enhancement caused by the surface roughness of Nb3Sn. However, there are currently no standard techniques used to reduce Nb3Sn surface roughness. Since Nb3Sn is only 2-3 microns thick, it is difficult to selectively polish Nb3Sn without removing the entire layer. Here, we investigate reducing the surface roughness of Nb3Sn through applying chemical polishing treatments, including modified versions of standard techniques such as Buffered Chemical Polishing (BCP) and Electropolishing (EP). Through data acquired from Atomic Force Microscope (AFM) scans, SEM scans, and SEM-EDS analysis, we show the effects of these chemical treatments in reducing surface roughness and consider the changes in the chemical composition of Nb3Sn that may occur through the etching process. We find that BCP with a 1:1:8 solution is ineffective while EP halves the surface roughness of Nb3Sn.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP013
+
+ 
+
+
+About •
+paper received ※ 01 July 2019       paper accepted ※ 04 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP014
+Electroplating of Sn Film on Nb Substrate for Generating Nb3Sn Thin Films and Post Laser Annealing
+51
+
+
+SUSP036
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Z. Sun, M. Liepe, T.E. Oseroff, R.D. Porter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+T. Arias, A.B. Connolly, J.M. Scholtz, N. Sitaraman, M.O. Thompson
+                       Cornell University, Ithaca, New York, USA
+X. Deng
+                       University of Virginia, Charlottesville, Virginia, USA
+K.D. Dobson
+                       University of Delaware, Newark, Delaware, USA
+
+ 
+
+
+ 
+
+Controlling film quality of Nb3Sn is critical to its SRF cavity performance. The state-of-the-art vapor diffusion approach for Nb3Sn deposition observed surface roughness, thin grain regions, and misfit dislocations which negatively affect the RF performance. The Sn deficiency and non-uniformity at the nucleation stage of vapor deposition is believed to be the fundamental reason to cause these roughness and defects issues. Thus, we propose to pre-deposit a uniform Sn film on the Nb substrate, which is able to provide sufficient Sn source during the following heat treatment for Nb3Sn nucleation and growth. Here, we demonstrated successful electrodeposition of a low-roughness, dendrite-free, excellent-adhesion Sn film on the Nb substrate. More importantly, we further achieved a uniform, low-roughness (Ra = 66 nm), pure-stoichiometric Nb3Sn film through thermal treatment of this electroplated Sn film in the furnace. Additionally, we provide preliminary results of laser annealing as a post treatment for epitaxial grain growth and roughness reduction.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP014
+
+ 
+
+
+About •
+paper received ※ 22 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP015
+RF Performance Sensitivity to Tuning of Nb3Sn Coated CEBAF Cavities
+55
+
+
+ 
+
+G.V. Eremeev, W. Crahen, J. Henry, F. Marhauser, C.E. Reece
+                       JLab, Newport News, Virginia, USA
+U. Pudasaini
+                       The College of William and Mary, Williamsburg, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Co-Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177. Based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics.
+Nb3Sn has the potential to surpass niobium as the material of choice for SRF applications. The potential of this material stems from a larger superconducting energy gap, which leads to expectations of a higher RF critical field and a lower RF surface resistance. The appeal of better superconducting properties is offset by the relative complexity of producing practical Nb3Sn structures, and Nb3Sn sensitivity to lattice disorder challenges the use of the material for practical applications. Such sensitivity is indirectly probed during SRF cavity development, when the cavity is tuned to match the desired accelerator frequency. In the course of recent experiments we have coated and tuned several multi-cell cavities. Cold RF measurements before and after tuning showed degradation in cavity performance after tuning. The results of RF measurement were compared against strain evolution on Nb3Sn surface during tuning based on CST and ANSYS models.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP015
+
+ 
+
+
+About •
+paper received ※ 26 June 2019       paper accepted ※ 01 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP016
+Insights Into Nb3Sn Coating of CEBAF Cavities From Witness Sample Analysis
+60
+
+
+ 
+
+G.V. Eremeev, M.J. Kelley, C.E. Reece
+                       JLab, Newport News, Virginia, USA
+M.J. Kelley, U. Pudasaini
+                       The College of William and Mary, Williamsburg, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Co-Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177. Based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics.
+With the progress made in the Nb3Sn coatings on single-cell SRF cavities, development is ongoing to reproduce single-cell cavity results on practical structures such as CEBAF 5-cell cavities. During CEBAF cavity coating development, several changes from the single-cell procedure to the coating setup and the heating profile were introduced to improve the quality of Nb3Sn films. To witness the properties of grown Nb3Sn films in different cavity locations, 10 mm x 10 mm samples were positioned in strategic places within the coating chamber. Composition and structure of the samples were analyzed with surface analytic techniques and correlated with sample location during coatings. Implications from sample analysis to Nb3Sn coatings on different geometries are discussed in this contribution.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP016
+
+ 
+
+
+About •
+paper received ※ 26 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP018
+Recent Results From Nb3Sn Single Cell Cavities Coated at Jefferson Lab
+65
+
+
+ 
+
+U. Pudasaini, M.J. Kelley
+                       The College of William and Mary, Williamsburg, Virginia, USA
+G. Ciovati, G.V. Eremeev, M.J. Kelley, C.E. Reece
+                       JLab, Newport News, Virginia, USA
+I.P. Parajuli, Md.N. Sayeed
+                       ODU, Norfolk, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Partially authored by Jefferson Science Associates under contract no. DE¬AC05¬06OR23177. Supported by Office of High Energy Physics under grants DE-SC-0014475 to the College of William and DE-SC-0018918 to Virginia Tech
+Because of superior superconducting properties (Tc ~ 18.3K, Hs h ~ 425 mT and delta ~ 3.1 meV) compared to niobium, Nb3Sn promise better RF performance (Q0 and Eacc) and/or higher operating temperature (2 K Vs 4.2 K) for SRF cavities. Nb3Sn-coated SRF cavities are produced routinely by depositing a few micron-thick Nb3Sn films on the interior surface of Nb cavities via tin vapor diffusion technique. Early results from Nb3Sn cavities coated with this technique exhibited precipi-tous low field Q-slope, also known as Wuppertal slope. Several Nb3Sn single cell cavities coated at JLab ap-peared to exhibit similar Q-slope. RF testing of cavi-ties and materials study of witness samples were con-tinuously used to modify the coating protocol. At best condition, we were able to produce Nb3Sn cavity with Q0 in excess of ~ 5×1010 at 2 K and ~ 2×1010 at 4 K up the accelerating gradient of ~15 MV/m, without any significant Q-slope. In this presentation, we will dis-cuss recent results from several Nb3Sn coated single-cell cavities linked with material studies of witness samples, coating process modifications and the possi-ble causative factors to Wuppertal slope.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP018
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP019
+Surface Preparation and Optimization of SC CH Cavities
+71
+
+
+SUSP024
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+P. Müller, M. Basten, M. Busch, T. Conrad, H. Podlech
+                       IAP, Frankfurt am Main, Germany
+K. Aulenbacher, F.D. Dziuba, M. Miski-Oglu
+                       HIM, Mainz, Germany
+W.A. Barth
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The Institute of Applied Physics (IAP) introduced the superconducting multi-gap CH-structure, which is mainly designed for low beta hadron acceleration. In 2017, a 217 MHz sc CH-structure was successfully tested with beam at GSI and multiple CH-structures are currently under development for the GSI cw linac. RF performance of all sc cavities are limited by the surface properties of the used material. Therefore, sufficient surface preparation and optimization is necessary to achieve optimal performance. Presently as standard procedure BCP and HPR is used for CH-cavities. Several surface treatments will be applied to the very first CH-prototype, a 360 MHz, 19-cell cavity. Prior to the first treatment, the status of the cavity was examined, including leak tests and performance tests at 4 and 2 K. This paper presents the performance development of a sc CH cavity depending on different preparation methods.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP019
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 05 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP022
+Superconducting RF Cavity Materials Research at the S-DALINAC
+74
+
+
+ 
+
+R. Grewe, L. Alff, M. Arnold, J. Conrad, S. Flege, M. Major, N. Pietralla
+                       TU Darmstadt, Darmstadt, Germany
+F. Hug
+                       IKP, Mainz, Germany
+
+ 
+
+
+ 
+
+Funding: Supported by BMBF Through 05H18RDRB2
+Current state-of-the-art superconducting rf (srf) accelerators are mostly using cavities made of high RRR bulk niobium (Nb). The maximum field gradients and quality factors (Q0) of these cavities are basically reached now. To further increase the srf cavity properties for future accelerator facilities, research of new materials for srf cavity applications is necessary. The current research at the S-DALINAC* is focused on the development of bake-out procedures of Nb samples and cavities in nitrogen (N) atmosphere of up to 100 mbar to nucleate the delta-phase (d-phase) of the Nb-N binary system. The d-phase has superconducting properties which exceed the properties of bulk Nb. This makes the d-phase attractive for srf applications. The vertical test cryostat (vt) at the S-DALINAC has been upgraded and recommissioned to allow investigations of the quality factor and accelerating field gradients of cavities before and after bake-out. The vt upgrade includes a newly developed variable input coupling to allow matching of the external q-factor (Qex) to Q0. The results of the ongoing research of the nitrogen atmosphere bake-out procedures and the upgrade of the vt will be presented.
+*N. Pietralla, Nuclear Physics News, Vol. 28, No. 2, 4 (2018)
+
+ 
+
+
+
+
+
+
+Poster MOP022 [1.759 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP022
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 01 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP023
+Nitrogen Infusion Sample R&D at DESY
+77
+
+
+SUSP002
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+C. Bate, A. Dangwal Pandey, A. Ermakov, B. Foster, T.F. Keller, D. Reschke, J. Schaffran, S. Sievers, N. Walker, H. Weise, M. Wenskat
+                       DESY, Hamburg, Germany
+W. Hillert
+                       University of Hamburg, Institut für Experimentalphysik, Hamburg, Germany
+G.D.L. Semione, V. Vonk
+                       DESY Nanolab, FS-NL, Hamburg, Germany
+A. Stierle
+                       University of Hamburg, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL continuous wave upgrade requires cavities with reduced surface resistance (high Q-values) for high duty cycle while maintaining high accelerating gradient for short-pulse operation. A possible way to meet the requirements is the so-called nitrogen infusion procedure. However, a fundamental understanding and a theoretical model of this method are still missing. The approach shown here is based on sample R&D, with the goal to identify key parameters of the process and establish a stable, reproducible recipe. To understand the underlying processes of the surface evolution, which gives improved cavity performance, advanced surface analysis techniques (e.g. SEM/EDX, TEM, XPS, TOF-SIMS) are utilized. Additionally, a small furnace just for samples was set up to change and explore the parameter space of the infusion recipe. Results of these analyses, their implications for the cavity R&D and next steps are presented.
+
+ 
+
+
+
+
+
+
+Poster MOP023 [3.759 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP023
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP024
+Vacancy-Hydrogen Dynamics in Samples During Low Temperature Baking
+83
+
+
+ 
+
+M. Wenskat, C. Bate, D. Reschke, H. Weise
+                       DESY, Hamburg, Germany
+C. Bate
+                       University of Hamburg, Hamburg, Germany
+M. Butterling, E. Hirschmann, M.O. Liedke, A. Wagner
+                       HZDR, Dresden, Germany
+J. Cizek
+                       Charles University, Prague, Czech Republic
+
+ 
+
+
+ 
+
+Funding: This work was supported by the Helmholtz Association within the topic Accelerator Research and Development (ARD) of the Matter and Technologies (MT) Program and by the BMBF under the research grant 05H18GURB1.
+The recent discovery of a modified low temperature baking process lead to a reduction of surface losses and an increase of the accelerating gradient of TESLA shape cavities. The hypothesis linking the accelerator performance and the treatment is the suppression of lossy nanohydrides via defect trapping, with vacancy-hydrogen complexes forming at the lower temperatures. Utilizing Doppler broadening Positron Annihilation Spectroscopy and Positron Annihilation Lifetime Spectroscopy samples made from European XFEL niobium sheets and cavity cut-outs were investigated. The evolution of vacancies, hydrogen and their interaction at different temperature levels have been studied during in-situ annealing. Measurements of niobium samples and a correlation between RF, material properties, and V-H distribution in cavity cut-outs has been done.
+
+ 
+
+
+
+
+
+
+Poster MOP024 [1.087 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP024
+
+ 
+
+
+About •
+paper received ※ 20 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP025
+Cavity Cut-out Studies of a 1.3 GHz Single-cell Cavity After a Failed Nitrogen Infusion Process
+87
+
+
+ 
+
+M. Wenskat, C. Bate, T.F. Keller, D. Reschke
+                       DESY, Hamburg, Germany
+C. Bate
+                       University of Hamburg, Hamburg, Germany
+A. Jeromin
+                       DESY Nanolab, FS-NL, Hamburg, Germany
+J. Knobloch, F. Kramer, O. Kugeler, J.M. Köszegi
+                       HZB, Berlin, Germany
+J. Knobloch
+                       University of Siegen, Siegen, Germany
+
+ 
+
+
+ 
+
+Funding: This work was supported by the Helmholtz Association within the topic Accelerator Research and Development (ARD) of the Matter and Technologies (MT) Program and by the BMBF under the research grant 05H18GURB1.
+R&D on the nitrogen infusion process at DESY produced at the beginning a series of 1.3 GHz single-cell cavities which have shown severe deterioration in the vertical cold test which was completely unexpected and could not be explained. To investigate the reason for the deterioration, one of those cavities was optically inspected and a T- and H-Map test was done in collaboration with HZB. Together with 2nd Sound data, regions of interests were identified and cut from the cavity. Subsequent surface analysis techniques (SEM/EDX, SIMS, PIXE, EBSD, DB-PAS, PALS, XPS) were applied in order to identify the reason for the deterioration. Especially the differences between hot and cold spots as well as quench spots identified by T-Mapping were investigated.
+
+ 
+
+
+
+
+
+
+Poster MOP025 [0.975 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP025
+
+ 
+
+
+About •
+paper received ※ 20 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP026
+A Cross-Lab Qualification of Modified 120°C Baked Cavities
+90
+
+
+ 
+
+M. Wenskat, D. Reschke, J. Schaffran, L. Steder, M. Wiencek
+                       DESY, Hamburg, Germany
+D. Bafia, A. Grassellino, O.S. Melnychuk
+                       Fermilab, Batavia, Illinois, USA
+A.D. Palczewski
+                       JLab, Newport News, Virginia, USA
+M. Wiencek
+                       IFJ-PAN, Kraków, Poland
+
+ 
+
+
+ 
+
+Funding: This work was supported by the Helmholtz Association within the topic Accelerator Research and Development (ARD) of the Matter and Technologies (MT) Program and by the BMBF under the research grant 05H18GURB1.
+Within a global effort to understand and standardize the nitrogen-infusion and the low T bake procedure, one large grain and two fine grain single-cell cavity were treated and tested at FNAL and then send to other labs including DESY and JLab for further studies.
+
+ 
+
+
+
+
+
+
+Poster MOP026 [0.813 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP026
+
+ 
+
+
+About •
+paper received ※ 20 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP027
+Study on Nitrogen Infusion using KEK New Furnace
+95
+
+
+ 
+
+K. Umemori, E. Kako, T. Konomipresenter, S. Michizono, H. Sakai
+                       KEK, Ibaraki, Japan
+T. Okada
+                       Sokendai, Ibaraki, Japan
+J. Tamura
+                       JAEA/J-PARC, Tokai-mura, Japan
+
+ 
+
+
+ 
+
+KEK has been carried out high-Q/high-G R&D, to realize high performance of SRF cavities toward ILC. KEK constructed a new furnace, which is dedicated for N-infusion studies. We performed more than 10 times of N-infusion trials using 1.3 GHz single-cell cavities. Some results showed better Q-values up to high field, however, some results showed degraded Q-E slopes probably due to contamination. Improvement of accelerating gradient is not observed at moment. We have tried to clean the furnace and Nitrogen injection line to reduce the effect of contamination. Details of procedures of N-infusion, results of vertical tests, condition of the furnace including RGA spectrum and Nb sample analysis results are shown.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP027
+
+ 
+
+
+About •
+paper received ※ 04 July 2019       paper accepted ※ 04 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP028
+Materials Science Investigations of Nitrogen-Doped Niobium for SRF Cavities
+99
+
+
+ 
+
+M. Major, L. Alff, M. Arnold, J. Conrad, S. Flege, R. Grewe, N. Pietralla
+                       TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by the German Federal Ministry for Education and Research (BMBF) through grant 05H18RDRB2.
+Niobium is the standard material for superconducting RF (SRF) cavities for particle acceleration. Superconducting materials with higher critical temperature or higher critical magnetic field allow cavities to work at higher operating temperatures or higher accelerating fields, respectively. Enhancing the surface properties of the superconducting material in the range of the penetration depth is also beneficial. One direction of search for new materials with better properties is the modification of bulk niobium by nitrogen doping. In the Nb-N phase diagram, the cubic delta-phase of NbN has the highest critical temperature. Niobium samples were annealed and N-doped in the high-temperature furnace at TU Darmstadt and investigated at its Materials Research Department with respect to structural modifications. Secondary ion mass spectrometry showed at which conditions N-diffusion takes place. X-ray diffraction (XRD) confirmed the appearance of NbN and Nb2N phases for the optimized doping process. XRD pole figures also showed grain growth during sample annealing.
+
+ 
+
+
+
+
+
+
+Poster MOP028 [2.555 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP028
+
+ 
+
+
+About •
+paper received ※ 05 July 2019       paper accepted ※ 12 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP029
+N-Doping Studies With Single-Cell Cavities for the SHINE Project
+102
+
+
+ 
+
+J.F. Chen, H.T. Hou, Y.F. Liu, D. Wang, Y. Wang
+                       SARI-CAS, Pudong, Shanghai, People’s Republic of China
+Y.W. Huang
+                       ShanghaiTech University, Shanghai, People’s Republic of China
+Z. Wang
+                       SINAP, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+The SHINE SRF accelerator is designed to operate in CW mode with more than six hundred superconducting cavities. In order to reduce the high cost of construction and operation of the cryogenic system, high-Q cavities with nitrogen-doping technology together with tradition-ally treated large-grain cavities have been considered as two possible options. In this paper, we present N-doping studies on single-cell cavities fabricated with fine-grain and large-grain niobium.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP029
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP030
+Analysis of Surface Nitrides Created During "Doping" Heat Treatments of Niobium
+106
+
+
+ 
+
+J.K. Spradlin, A.D. Palczewski, C.E. Reecepresenter, H. Tian
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+The benefits of reduced RF losses from interstitial "doping" of niobium are well established. Many of the details involved in the process remain yet to be elucidated. The niobium surface reacted with low-pressure nitrogen at 800°C presents a surface with chemical reactivity different than standard niobium. While standard "recipes" are being used to produce cavities, we seek additional insight into the chemical processes that may be used to remove the "undesirable" as-formed surface layer. This may lead to new processing routes or quality assurance methods to build confidence that all surface "nitrides" have been removed. We report a series of alternate chemistry treatments and subsequent morphological examinations and interpret the results. We also introduce a new standardized Nb sample system in use for efficient characterization of varying doping protocols and cross-laboratory calibration.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP030
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP031
+Investigation of Frequency Behavior Near Tc of Niobium Superconducting Radio-Frequency Cavities
+112
+
+
+SUSP016
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+D. Bafia, J. Zasadzinski
+                       IIT, Chicago, Illinois, USA
+D. Bafia, M. Checchin, A. Grassellino, O.S. Melnychuk, A.S. Romanenko, D.A. Sergatskov
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+This paper will present a systematic investigation of the resonant frequency behavior of niobium SRF cavities subject to different surface processing (nitrogen doping, nitrogen infusion, 120°C bake, EP, etc.) near the critical transition temperature. We find features occurring in frequency versus temperature (FvsT) data near Tc that seem to vary with surface processing. Emphasis is placed on one of the observed features: a dip in the superconducting resonant frequency below the normal conducting value which is prominent in nitrogen doped cavities and appears to be a signature of nitrogen doping. This gives further insights on the mechanisms responsible for the large increase in performance of cavities subject to this surface treatment. The magnitude of this dip in frequency is studied and related to possible physical parameters such as the concentration of impurities near the surface and the design resonant frequency of the cavity. A possible explanation for the meaning of this dip is discussed, namely, that it is a result of strong coupling between electrons and phonons within the resonator.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP031
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP032
+Effect of Low Temperature Infusion Heat Treatments and "2/0" Doping on Superconducting Cavity Performance
+118
+
+
+ 
+
+P.N. Koufalis, M. Ge, M. Liepe, J.T. Maniscalcopresenter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Under specific circumstances, low temperature infusion heat treatments of niobium cavities have resulted in the ubiquitous "Q-rise". This is an increase in quality factor with increasing field strength or equivalently a decrease in the temperature-dependent component of the surface resistance. We investigate the results of various infusion conditions with infusion bake time as a free parameter. To study the very near surface effects of infusion, we employ HF rinsing, light VEP, and oxypolishing to remove several or tens of nm at a time. We present results from RF performance tests of low temperature infusion heat treated niobium cavities, and correlate these with SIMS impurity depth profiles obtained from witness samples. We also present results of a cavity doped at 800 C with the "2/0" recipe.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP032
+
+ 
+
+
+About •
+paper received ※ 26 June 2019       paper accepted ※ 02 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP033
+The Beam Dynamics Updates of the Fermilab PIP-II 800 MeV Superconducting Linac
+123
+
+
+ 
+
+A. Saini, V.P. Yakovlevpresenter
+                       Fermilab, Batavia, Illinois, USA
+E. Pozdeyev
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+The Proton Improvement Plan (PIP) -II is a high intensity proton facility being developed to support a neutrino program over the next two decades at Fermilab. At its core is the design and construction of a Continuous Wave compatible superconducting radio frequency linear accelerator that would accelerate an average beam current of 2 mA up to 800 MeV. This paper presents recent updates in the beam dynamics leading to a reliable and robust linac design and simplifying the cryo-module assembly.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP033
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 01 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP034
+European XFEL: Accelerating Module Repair at DESY
+127
+
+
+ 
+
+D. Kostin, J. Eschke, K. Jensch, N. Krupka, D. Reschke, S. Saegebarth, J. Schaffran, M. Schalwat, P. Schilling, M. Schmökel, S. Sievers, N. Steinhau-Kühl, E. Vogel, H. Weise, M. Wiencek, B. van der Horst
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL is in operation since 2017. The design projected energy of 17.5 GeV was reached, even with the last 4 main linac accelerating modules not yet installed. 2 out of 4 not installed modules did suffer from strong cavity performance degradation, namely increased field emission, and required surface processing. The first of two modules is reassembled and tested. The module test results confirm a successful repair action. The module repair and test steps are described together with cavities performance evolution.
+
+ 
+
+
+
+
+
+
+Poster MOP034 [1.863 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP034
+
+ 
+
+
+About •
+paper received ※ 17 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP035
+Cryogenic Infrastructure at BESSY II – Current Installations and Future Developments
+131
+
+
+ 
+
+S. Heling, W. Anders, J. Heinrich, A. Hellwig, K. Janke, S. Rotterdam
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+In Berlin-Adlershof the Helmholtz-Zentrum Berlin (HZB) is operating the synchrotron radiation source BESSY II. Two superconducting wave-length shifter magnets are built-in the storage ring of BESSY II which are cooled with liquid helium. Additionally several test facilities for superconducting cavities are operated at HZB needing helium at 1.8 K. The required helium is supplied by two helium liquefiers. Parallel to operation of the existing facilities the BERLinPro project will qualify as test facility for ERL science and technology. In order to guarantee the required supply with helium at different temperature levels one of the existing helium liquefiers has been relocated to the new accelerator building and the existing cryogenic infrastructure has been upgraded with a new 10 000 L dewar, three valve boxes, a cold compressor box, warm pumps and a 80 K helium system. This paper specifies the setup of the above described helium cryoplants in detail and gives insight into the challenges of development. The paper concludes with an outlook of the upcoming developments of the cryogenic infrastructure at HZB.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP035
+
+ 
+
+
+About •
+paper received ※ 20 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP036
+Microphonics Suppression Study in ARIEL e-Linac Cryomodules
+136
+
+
+ 
+
+Y. Ma, K. Fong, J.J. Keir, D. Kishi, S.R. Koscielniak, D. Lang, R.E. Laxdal, S.L. Liu, R.S. Sekhon, X. Wang
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+Now the stage of the 30 MeV portion of ARIEL (The Advanced Rare Isotope Laboratory) e-Linac (1.3 GHz, SRF) is under commissioning which includes an injector cryomodule (ICM) with a single nine-cell cavity and the 1st accelerator cryomodule (ACM1) with two cavities configuration. The two ACM1 cavities are driven by a single klystron with vector-sum control and running in CW mode. We have observed a ponderomotive instability in ACM1 driven by the Lorentz force and seeded through microphonics that impacts beam stability [1-5]. Extensive damping has been implemented during a recent shut-down. The beam test results show 20 MeV acceleration gain can be reached by ACM1. A fast piezoelectric (Pie-zo) tuner is under development to allow a fast tuning compensation for the e-Linac cavities. In this paper, the progress of the microphonics suppression of Cryomod-ules is presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP036
+
+ 
+
+
+About •
+paper received ※ 24 June 2019       paper accepted ※ 01 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP039
+Nitrogen Doping Studies of Superconducting Cavities at Peking University
+141
+
+
+SUSP012
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+S. Chen, M. Chen, L.W. Feng, J.K. Hao, L. Lin, K.X. Liu, S.W. Quan, F. Wang, F. Zhu
+                       PKU, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+Nitrogen doping studies with 1.3 GHz superconducting cavities were carried out at Peking University in recent years. We have realized 4×1010 of high quality factor at 12 MV/m and 2.0 K with large grain single cell cavities by heavy doping. To improve the accelerating gradient of high Q cavities, light doping recipe is adopted. Accelerating gradient is improved to 20 MV/m and the quality factor is larger than 3×1010 at 16 MV/m and 2.0 K for light doped cavities. The nitrogen treatment, test and analysis are presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP039
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP040
+Low Temperature Thermal Conductivity of Niobium and Materials for SRF Cavities
+144
+
+
+ 
+
+M. Fouaidy
+                       Université Paris-Saclay, CNRS/IN2P3, IJCLab, Orsay, France
+
+ 
+
+
+ 
+
+A test facility, allowing the test of 4 samples simultaneously during each run, was developed for measuring at low temperature (T= 1.5 K - 10 K) the thermal conductivity k(T) of niobium and other materials used for the fabrication of SRF cavities. The measurements are performed using steady-state axial heat flow method with a careful control of heat leaks to the surrounding. Several samples of different materials (industrial Nb sheets, Ti¿) were either tested as received or/and subjected to various Heat Treatment (H.T) prior to the experiment then tested. The resulting experimental data are presented and compared to the experimental results previously reported by other groups. As expected, H.T @ 1200°C with Ti gettering improves the Nb RRR by a factor of 3 and consequently k(T). Finally, the correlation between the Niobium RRR and the thermal conductivity. at T=4.2 K is confirmed in good agreement with the Wiedemann-Franz law.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP040
+
+ 
+
+
+About •
+paper received ※ 04 July 2019       paper accepted ※ 05 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP041
+Comparison of the Lattice Thermal Conductivity of Superconducting Tantalum and Niobium
+148
+
+
+ 
+
+P. Xu, N.T. Wright
+                       MSU, East Lansing, Michigan, USA
+T.R. Bielerpresenter
+                       Michigan State University, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U.S. Department of Energy, Office of High Energy Physics through Grant No. DE-FG02-13ER41974.
+The thermal conductivity k of superconducting Ta behaves similarly to that of superconducting Nb, albeit at colder temperatures. This shift is due to the superconducting transition temperature of Ta being 4.3 K, versus 9.25 K for Nb. For example, the temperature of the phonon peak of properly treated Ta is about 1 K as opposed to a phonon peak at about 2 K for Nb. The typical value of k of Ta is smaller than Nb with the value at the phonon peak for Ta being O(10) W/ m/ K. Like Nb, k is dominated by phonons at these temperatures. This lattice k can be modeled by the Boltzmann transport equation, solved here by a Monte Carlo method using the relaxation time approximation. Individual scattering mechanisms due to boundaries, dislocations, and residual normal electrons are examined, and the phonon dispersion relation is included. Differences in the thermal response of deformed Ta, as compared with Nb, may be attributed to differences in dislocation densities of the two metals following similar levels of deformation. Boundary scattering dominates at the coldest temperatures. The phonon peak decreases and shifts to warmer temperatures with deformation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP041
+
+ 
+
+
+About •
+paper received ※ 19 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP045
+The LCLS-II HE High Q and Gradient R&D Program
+154
+
+
+ 
+
+D. Gonnella, S. Aderhold, A. Burrill, G.R. Hays, T.O. Raubenheimer, M.C. Ross
+                       SLAC, Menlo Park, California, USA
+D. Bafia, M. Checchin, A. Grassellino, M. Martinello, A.S. Romanenko
+                       Fermilab, Batavia, Illinois, USA
+M. Ge, M. Liepe, S. Posen
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+A.D. Palczewski, C.E. Reece
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: US DOE and the LCLS-II HE Project
+The LCLS-II HE project is a high energy upgrade to the superconducting LCLS-II linac. It consists of adding twenty additional 1.3 GHz cryomodules to the linac, with cavities operating at a gradient of 20.8 MV/m with a Q0 of 2.7·1010. Performance of LCLS-II cryomodules has suggested that operations at this high of a gradient will not be achievable with the existing cavity recipe employed. Therefore a research program was developed between SLAC, Fermilab, Thomas Jefferson National Accelerator Facility, and Cornell University in order to improve the cavity processing method of the SRF cavities and reach the HE goals. This program explores the doping regime beyond what was done for LCLS-II and also has looked to further developed nitrogen-infusion. Here we will summarize the results from this R\&D program, showing significant improvement on both single-cell and 9-cell cavities compared with the original LCLS-II cavity recipe.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP045
+
+ 
+
+
+About •
+paper received ※ 25 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP047
+Progress of IFMIF/EVEDA Project and Prospects for A-FNS
+159
+
+
+ 
+
+S. Ishida, A. Kasugai, K. Sakamoto
+                       QST, Aomori, Japan
+P. Cara
+                       IFMIF/EVEDA, Rokkasho, Japan
+H. Dzitko
+                       F4E, Germany
+
+ 
+
+
+ 
+
+International Fusion Materials Irradiation Facility (IFMIF) is an accelerator-based D-Li neutron source, in which two 40 MeV Deuteron(D) beams with a total current 250 mA impact on a liquid Li stream flowing at 15 m/s. In the IFMIF/EVEDA project under the Broader Approach (BA) agreement, the Li target was continuously operated with the cold trap and satisfied the stability requirement throughout the continuous operation. The Linear IFMIF Prototype Accelerator (LIPAc) is currently under development in Rokkasho, Japan, to demonstrate the 9 MeV/125 mA D+ beam acceleration. Recently, the first proton beam was injected into the RFQ with more than 90 % of transmission, followed by the first D+ beam accelerated at 5 MeV. The SRF linac necessary for the 9-MeV D+ beam is nearing completion of the manufacturing phase and will be assembled in Rokkasho. Based on these results, a conceptual design of the Advanced Fusion Neutron Source (A-FNS) for its construction in Rokkasho is underway to obtain material irradiation data for a DEMO reactor. The A-FNS is designed to be composed of an accelerator facility with a 40 MeV/125 mA D+ beam, a test facility including a liquid Li target system and a post irradiation examination facility, and to enable multipurpose utilization for neutron application.
+
+ 
+
+
+
+
+
+
+Poster MOP047 [2.327 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP047
+
+ 
+
+
+About •
+paper received ※ 29 June 2019       paper accepted ※ 12 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP049
+Prototypes Fabrication of 1.3 GHz Superconducting Rf Components for SHINE
+164
+
+
+ 
+
+H.T. Hou, J.F. Chen, Z.Y. Ma, J. Shi, Y. Wang
+                       SARI-CAS, Pudong, Shanghai, People’s Republic of China
+F.S. He
+                       IHEP, Beijing, People’s Republic of China
+S.W. Quan
+                       PKU, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+Aiming to high repetition rate hard X-ray facility, con-struction of Shanghai HIgh repetition rate XFEL aNd Extreme light facility (SHINE) project has been ap-proved. During the R & D phase, prototypes fabrication of key components of 1.3GHz superconducting rf system have been proposed, especially 1.3 GHz 9-cell niobium cavities. Here the paper will present the progress of the fabrication status and performance of the prototypes, together with the analysis of not only the quality factor and gradient of the cavities. Consideration of HOM feed-throughs and absorbers are also reported.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP049
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP050
+Modular Power Couplers for 217 MHz Superconducting CH-Cavities
+168
+
+
+SUSP034
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+J. List, K. Aulenbacher, W.A. Barth, C. Burandt, F.D. Dziuba, V. Gettmann, T. Kürzeder, S. Lauber, M. Miski-Oglu
+                       HIM, Mainz, Germany
+K. Aulenbacher, W.A. Barth, C. Burandt, V. Gettmann, M. Heilmann, T. Kürzeder, S. Lauber, J. List, M. Miski-Oglu, A. Schnase, S. Yaramyshev
+                       GSI, Darmstadt, Germany
+K. Aulenbacher, F.D. Dziuba, S. Lauber, J. List
+                       IKP, Mainz, Germany
+M. Basten, M. Busch, H. Podlech, M. Schwarz
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+The HELmholtz LInear ACcelerator (HELIAC) is being developed by a collaboration of HIM, GSI and the Goethe University of Frankfurt. It is a superconducting (sc), continuous wave (cw) heavy ion linac that comprises novel Crossbar H-mode (CH) cavities. In April 2017 and November/December 2018 the first sc CH-cavity of the linac was tested with beam. The first operations of the cavity showed, that the prototype of the rf power coupler needs to be further improved. A new version of the coupler is being designed at the HIM. Further development will mainly be focused on the heat input into the cryostat caused by the coupler. Also the coupler will have a modular design. This improves the accessibility and maintenance of the coupler. Various cryogenic and rf tests are foreseen, to provide a reliable, fail-safe coupler for the HELIAC. For an enhanced coupler test stand a movable reflector has been designed and built. With its movable semi-reflective element, it allows to operate the test stand in a resonance mode. In addition, the movable reflector can vary the coupling factor. This contribution discusses the recent coupler R&D for the HELIAC.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP050
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP051
+3.9 GHz SRF Production Cavities for LCLS-II
+173
+
+
+ 
+
+S. Aderhold, A. Burrill
+                       SLAC, Menlo Park, California, USA
+D.J. Bice, C.M. Ginsburg, C.J. Grimm, T.N. Khabiboulline, O.S. Melnychuk, D.A. Sergatskov, N. Solyak, G. Wu
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the US DOE and the LCLS-II Project.
+The main part of the SRF linac for the Linac Coherent Light Source II (LCLS-II) at SLAC will consist of 35 cryomodules with superconducting RF cavities operating at 1.3 GHz. In addition, two cryomodules with 3.9 GHz cavities will be installed and help to linearize the longitudinal phase space of the beam. During the design verification phase, four prototype 9-cell 3.9 GHz cavities had been built by industry and then processed, including chemical surface removal and heat treatment, and tested at Fermi National Accelerator Laboratory. Based on the resulting cavity treatment recipe, 24 cavities (for two cryomodules to be installed in the linac and one spare cryomodule) have been built by industry and tested at Fermilab prior to cryomodule string assembly. We present an overview of the cavity production and the results of the vertical acceptance tests for the LCLS-II 3.9 GHz cavities.
+
+ 
+
+
+
+
+
+
+Poster MOP051 [1.015 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP051
+
+ 
+
+
+About •
+paper received ※ 02 July 2019       paper accepted ※ 03 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP054
+Fabrication of 3.0-GHz Single-cell Cavities for Thin-film Study
+177
+
+
+ 
+
+T. Saeki, H. Hayano, H. Inoue, R. Katayama, T. Kubo
+                       KEK, Ibaraki, Japan
+F.E. Hannon, R.A. Rimmer, A-M. Valente-Feliciano
+                       JLab, Newport News, Virginia, USA
+H. Ito
+                       Sokendai, Ibaraki, Japan
+Y. Iwashita, H. Tongu
+                       Kyoto ICR, Uji, Kyoto, Japan
+
+ 
+
+
+ 
+
+Funding: This work is supported by JSPS KAKENHI JP17H04839, JSPS KAKENHI JP26600142, Japan-US Research Collaboration Program, and the Collaborative Research Program of ICR Kyoto Univ. (2018-13).
+We fabricated 3.0-GHz single-cell cavities with Cu and Nb materials for testing thin-film creations on the inner surface of the cavities in collaboration between Jefferson Laboratory (JLab) and KEK. The cavity was designed at JLab. According to the design of cavity, the press-forming dies and trimming fixtures for the cavity-cell were also designed and fabricated at JLab. These dies and trimming fixtures were transported to KEK, and the rest of fabrication processes were done at KEK. Finally nine Cu 3.0-GHz single-cell cavities and six Nb 3.0-GHz single-cell cavities were fabricated. Two Cu 3.0-GHz single-cell cavities were mechanically polished at Jlab. All of these cavities will be utilized for the tests of various thin-film creations at JLab and KEK. This presentation describes details of the fabrication of these cavities.
+
+ 
+
+
+
+
+
+
+Poster MOP054 [1.203 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP054
+
+ 
+
+
+About •
+paper received ※ 05 July 2019       paper accepted ※ 13 August 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP055
+Fabrication and Performance of Superconducting Quarter-Wavelength Resonators for SRILAC
+182
+
+
+ 
+
+K. Suda, O. Kamigaito, K. Ozeki, N. Sakamoto, Y. Watanabe, K. Yamada
+                       RIKEN Nishina Center, Wako, Japan
+H. Hara, A. Miyamoto, K. Sennyu, T. Yanagisawa
+                       MHI-MS, Kobe, Japan
+E. Kako, H. Nakai, H. Sakai, K. Umemori
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+A new superconducting booster linac (SRILAC) at the RIKEN heavy-ion linac is under construction. Ten 73-MHz low-beta quarter-wavelength resonators (QWRs) that operate at 4 K have been fabricated from pure niobium sheets. The cavity parts were assembled by electron beam welding. The resonant frequency for each cavity was adjusted by changing the lengths of the straight sections before welding. The performance and frequency were evaluated by vertical tests. All the cavities exceeded the design specifications of Q0 = 1x109 and Eacc = 6.8 MV/m. Details of the fabrication and frequency tuning as well as the performance of the cavities are reported.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP055
+
+ 
+
+
+About •
+paper received ※ 17 July 2019       paper accepted ※ 13 August 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP056
+Surface Treatments for the Series Production of ESS Medium Beta Cavities
+188
+
+
+ 
+
+M. Bertucci, A. Bosotti, A. D’Ambros, P. Michelato, L. Monaco, C. Pagani, R. Paparella, D. Sertore
+                       INFN/LASA, Segrate (MI), Italy
+C. Pagani
+                       Università degli Studi di Milano & INFN, Segrate, Italy
+D. Rizzetto, M. Rizzi
+                       Ettore Zanon S.p.A., Schio, Italy
+A. Visentin
+                       Ettore Zanon S.p.A., Nuclear Division, Schio, Italy
+
+ 
+
+
+ 
+
+The surface treatment of ESS 704 MHz medium beta cavities consists of a bulk BCP 200 micron removal, a 10 h 600°C heat treatment and a final 20 micron BCP performed after tank integration. The facility currently employed for the BCP treatment, settled in Ettore Zanon SpA, is here presented, together with the results so far obtained on the first series cavities in terms of frequency sensitivity, removal rate and surface external temperature. The optimization of BCP treatment by a preliminary fluid-dynamical finite element model is also discussed. Some details about the visual inspection procedure and the furnace qualification are also presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP056
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP057
+Electropolishing of PIP-II Low Beta Cavity Prototypes
+194
+
+
+ 
+
+M. Bertucci, A. Bosotti, A. D’Ambros, P. Michelato, L. Monaco, C. Pagani, R. Paparella, D. Sertore
+                       INFN/LASA, Segrate (MI), Italy
+A. Gresele, A. Visentin
+                       Ettore Zanon S.p.A., Nuclear Division, Schio, Italy
+C. Pagani
+                       Università degli Studi di Milano & INFN, Segrate, Italy
+D. Rizzetto, M. Rizzi
+                       Ettore Zanon S.p.A., Schio, Italy
+
+ 
+
+
+ 
+
+We present the upgrade of the EP facility for the surface treatment of PIP-II low beta cavities. The main process parameters, such as voltage, treatment time, acid throughput and cathode geometry, already optimized on the previous experience of 1.3 GHz Tesla-shape cavities, are discussed taking into account the different cavity size and geometry. The first surface treatments have been performed at Ettore Zanon SpA on single cell cavity prototypes in order to reach good final surface finishing and the required thickness removal. In the meantime, the upgrade of the system for the treatment of multicell PIP-II prototype cavities is presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP057
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 02 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP058
+ESS Medium Beta Activity at INFN LASA
+199
+
+
+ 
+
+D. Sertore, M. Bertucci, A. Bignami, A. Bosotti, M. Chiodini, A. D’Ambros, G. Fornasier, P. Michelato, L. Monacopresenter, R. Paparella
+                       INFN/LASA, Segrate (MI), Italy
+S. Aurnia, O. Leonardi, A. Miraglia, G. Vecchio
+                       INFN/LNS, Catania, Italy
+A. Gresele, A. Visentin
+                       Ettore Zanon S.p.A., Nuclear Division, Schio, Italy
+C. Pagani
+                       Università degli Studi di Milano & INFN, Segrate, Italy
+D. Reschke, A. Sulimov, M. Wiencek
+                       DESY, Hamburg, Germany
+D. Rizzetto, M. Rizzi
+                       Ettore Zanon S.p.A., Schio, Italy
+L. Sagliano
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+The industrial production of the 36 resonators (plus 2 spares) for the ESS linac started and it is steadily progressing. Cavities are delivered by industry as fully surface-treated and dressed to AMTF facility at DESY for their qualification via vertical cold-test. This paper reports the current status of the manufacturing process from sub-components to processing of the complete cavity inner surface. It also reviews the documental control strategy deployed to preserve the fulfillment of ESS requirements as well as the cavity performances demonstrated so far.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP058
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP060
+INFN-LASA for the PIP-II Project
+205
+
+
+ 
+
+R. Paparella, M. Bertucci, A. Bignami, A. Bosotti, M. Chiodini, A. D’Ambros, P. Michelato, L. Monaco, D. Sertore
+                       INFN/LASA, Segrate (MI), Italy
+J.F. Chen
+                       SARI-CAS, Pudong, Shanghai, People’s Republic of China
+C. Pagani
+                       Università degli Studi di Milano & INFN, Segrate, Italy
+L. Sagliano
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+INFN-LASA joined the international effort for the PIP-II project in Fermilab to build the 650 MHz superconducting cavities realizing the low-beta section of the 800 MeV proton linac. After developing the electro-magnetic and mechanical design, INFN-Milano started the prototyping phase by producing five single-cells and two complete 5-cells cavities. This paper reports the status of PIP-II activities at INFN-LASA summarizing manufacturing experience and preliminary experimental results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP060
+
+ 
+
+
+About •
+paper received ※ 24 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP061
+State of the Art of Niobium Machining for SRF Applications
+210
+
+
+ 
+
+P. Naisson, S. Atieh, K. Scibor, P. Trubacova
+                       CERN, Geneva, Switzerland
+F. Dumont, D. Fabre, F. Valiorgue
+                       ENISE, Saint Etienne, France
+
+ 
+
+
+ 
+
+Niobium is a demanding material to be machined. Its low hardness, high melting temperature and abrasivity leads to poor cutting condition, and surface quality and shape accuracy could be difficult to achieve, especially for complex shapes such as HOM antennas. Recent CERN developements concerning DQW crab cavity for HL-LHC project had implied extensive research program to better understand and master the machining of this material. In this frame, the present article will introduce actual state of the art machining condition used at CERN and their consequences about the surface roughness, shape accuracy and taking into account the tool wear in order to maintain this level of quality. Morevoer, advance machning solution, such as cryogenic cooling could be used.
+
+ 
+
+
+
+
+
+
+Poster MOP061 [2.921 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP061
+
+ 
+
+
+About •
+paper received ※ 30 June 2019       paper accepted ※ 01 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP062
+Fabrication of SRF Cavity
+214
+
+
+ 
+
+K. Kanaoka, H. Hara, A. Miyamoto, K. Sennyu, T. Yanagisawa
+                       MHI-MS, Kobe, Japan
+E. Kako, K. Umemori
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Mitsubishi Heavy Industries Machinery Systems (MHI-MS) have developed manufacturing process of superconducting cavities for a long time. In this presentation, recent progress will be reported.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP062
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 05 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP063
+Beam Loading in the BESSY VSR SRF Cavities
+217
+
+
+ 
+
+A.V. Tsakanian, H.-W. Glock, J. Knobloch, A.V. Vélez
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+The BESSY VSR upgrade of the BESSY II light source represents a novel approach to simultaneously store long (ca. 15 ps) and short (ca. 1.7 ps) bunches in the storage ring at currents up to 300 mA. This challenging goal requires installation of four new 4-cell SRF cavities (2x1.5 GHz and 2x1.75 GHz) in one module for installation in a single straight. As far as we are aware of, this is the first installation of multi-cell L-Band cavities in a high-current storage ring. These cavities are equipped with newly developed waveguide HOM dampers necessary for stable operation. Up to 2 kW of HOM power must be absorbed. Operating two SRF cavities for each frequency will also enable transparent parking of the cavities for the beam. Based on wakefield theory, a technique for beam loading calculation will be presented. The expected beam loading both at 2 K and at room temperature has been analyzed to evaluate transparent parking for both situations. The presented study is performed for various BESSY II and VSR bunch filling patterns with 300 mA beam current.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP063
+
+ 
+
+
+About •
+paper received ※ 22 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP064
+Performance of First Prototype Multi-Cell Low-Surface-Field Shape Cavity
+222
+
+
+ 
+
+R.L. Geng
+                       JLab, Newport News, Virginia, USA
+Y. Fuwa, Y. Iwashita
+                       Kyoto ICR, Uji, Kyoto, Japan
+H. Hayano
+                       KEK, Ibaraki, Japan
+H. Ito
+                       Sokendai, Ibaraki, Japan
+Z. Li
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The idea of cavity shaping for higher ultimate acceleration gradients has been proposed for some time, Low Loss/Ichiro and Re-entrant being examples, both seeking a lower Hpk/Eacc at the expense of a higher Epk/Eacc. While experimental verification in single-cell cavities of those shapes was very successful including the record gradient of 59 MV/m, pushing multi-cell cavities of those shapes to higher gradients was prevented by field emission. The Low-Surface-Field (LSF) shape seeks not only a lower Hpk/Eacc but also a lower Epk/Eacc, therefore it has the advantage of raising ultimate gradient at reduced field emission. The first multi-cell LSF shape prototype cavity was built using the standard forming and welding techniques. RF tests have been carried out, following standard ILC TDR baseline surface processing and treatment recipe. Three out of five cells achieved Hpk values corresponding to Eacc 50 MV/m. The current limit is the field emission in end cells. Instrumented testing following end-cell wiping and HPR with larger nozzles is in progress. We will present detailed experimental results and preparation procedures.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP064
+
+ 
+
+
+About •
+paper received ※ 24 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP065
+Upgrade of the S-DALINAC Injector Capture Section
+227
+
+
+ 
+
+S. Weih, M. Arnold, J. Enders, N. Pietralla
+                       TU Darmstadt, Darmstadt, Germany
+D.B. Bazyl, H. De Gersem, W.F.O. Müller
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by DFG through GRK 2128 "AccelencE"
+The superconducting injector section of the S-DALINAC (superconducting Darmstadt linear electron accelerator) [1] constists of two cryomodules with three 3-GHz SRF cavities in total. The first cavity of this pre-accelerator is currently a 5-cell structure designed for relativistic particle velocities. Since the gun delivers a 250 keV beam (β=0.74), this cavity is not suited for an efficient capture of the low-energy electron bunches provided by the normal-conducting section of the injector. Beam dynamics simulations and operational experience have shown a large low-energy tail in the phase-space distribution of the bunch downstream of the injector, which arises from the large phase-slippage during the capture in the 5-cell. It is therefore intended to replace the cavity with a beta-adapted 6-cell, re-using most of the cryostat parts. This contribution presents the status of the injector upgrade and the layout and manufacturing status of the new cavity.
+*N. Pietralla, Nuclear Physics News, Vol. 28, No. 2, 4 (2018)
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP065
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 02 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP070
+Investigation of the Critical RF Fields of Superconducting Cavity Connections
+230
+
+
+SUSP026
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+J.C. Wolff, J.I. Iversen, D. Klinke, D. Kostin, D. Reschke, S. Sievers, A. Sulimov, J.H. Thie, M. Wiencek
+                       DESY, Hamburg, Germany
+R. Wendel, J.C. Wolff
+                       HAW Hamburg, Hamburg, Germany
+
+ 
+
+
+ 
+
+To optimise the length of the drift tube of a superconducting cavity (SC), it is required to know the critical value of the RF fields to prevent a potential early quench at the flange connection in case of a drift tube length reduction. To avoid changes on the SC which has been used for the tests, all RF cryogenic experiments have been carried out by using a cylinder in the center of a 1-cell cavity drift tube to increase the field magnitude at the connection. This cylinder has been designed and optimised by RF simulations to provide a field density at the connection twice as high as at a chosen reference point near the iris. Hence also a test SC with a comparatively low gradient can be used without causing field restrictions. In this contribution an approach to investigate the field limitations of 1.3 GHz TESLA-Shape SC connections and thereby the minimal drift tube length based on simulations will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP070
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 04 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP072
+FRIB Solenoid Package in Cryomodule and Local Magnetic Shield
+235
+
+
+ 
+
+K. Saito, H. Ao, B. Bird, R. Bliton, N.K. Bultman, F. Casagrande, C. Compton, J. Curtin, K. Elliott, A. Ganshyn, W. Hartung, L. Hodges, K. Holland, S.H. Kim, S.M. Lidia, D. Luo, S.J. Miller, D.G. Morris, L. Nguyen, D. Norton, J.T. Popielarski, L. Popielarski, T. Russo, J.F. Schwartz, S.M. Shanab, M. Shuptar, D.R. Victory, C. Wei, J. Wei, M. Xu, T. Xu, Y. Yamazaki, C. Zhang, Q. Zhao
+                       FRIB, East Lansing, Michigan, USA
+A. Facco
+                       INFN/LNL, Legnaro (PD), Italy
+K. Hosoyama, M. Masuzawa
+                       KEK, Ibaraki, Japan
+R.E. Laxdal
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy Office of Science under Cooperative Agreement DE -SC0000661
+FRIB cryomodule design has a feature: solenoid package(s) and local magnetic shields in the cryomodule. In this design, exposing SRF cavities to a very strong fringe field from the solenoid is concerned. A tangled issue between solenoid package design and magnetic shield one has to be resolved. FRIB made intensive studies, designed, prototyped, validated the solenoid packages and magnetic shields, and finally certified them in the bunker test. This paper reports activity results, and LS1 commissioning results in FRIB tunnel. This is a FRIB success story.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP072
+
+ 
+
+
+About •
+paper received ※ 24 June 2019       paper accepted ※ 14 August 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP073
+The Study of High Power Couplers for CIADS
+241
+
+
+SUSP007
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Z.Q. Lin, Y. He, S.C. Huang, Y.L. Huang, T.C. Jiang, C.L. Li, Y.M. Li, M. Lu, F. Pan, T. Tan, R.X. Wang, Z. Xue, Z.Q. Yang, S.X. Zhang
+                       IMP/CAS, Lanzhou, People’s Republic of China
+
+ 
+
+
+ 
+
+High power couplers with high operation reliability are needed for the superconducting cavities used in the Linac of CiADS project at IMP. This paper will report two works on high power coupler. The DC bias structure of the coupler was optimized to suppress the multipacting effect, where the series resistors were introduced to the wire of the DC bias to reduce the field propagating along the DC bias¿s wire. For the purpose of significantly decreasing the power needed to condition the coupler, we designed a new RF conditioning scheme, in which the coupler served as a standing wave resonator, and the positions of the crests and troughs of the wave were tunable. The details of the design mentioned above will be depicted.
+
+ 
+
+
+
+
+
+
+Poster MOP073 [14.677 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP073
+
+ 
+
+
+About •
+paper received ※ 25 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP074
+External Q Measurement for Quarter Wave Resonators in RISP
+245
+
+
+ 
+
+S. Lee, B.H. Choi, M.O. Hyunpresenter, Y. Jung, J.W. Kim, Y. Kim, J. Lee, K.T. Seol
+                       IBS, Daejeon, Republic of Korea
+
+ 
+
+
+ 
+
+A heavy-ion accelerator facility is under construction for Rare Isotope Science Project(RISP) in Korea. The super conducting cavity, quarter wave resonator(QWR) which consists of driver and post linear accelerator system, is now in the mass production phase. In order to develop the QWR cavity and cryomodule, the RF couplers are fabriacated and tested. In this paper, the study of external Q for QWR coupler will be described.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP074
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP075
+Design of RF Power Coupler Transmitting both 162.5 MHz and 81.25 MHz Power to SRF Cavities for BISOL R&D Research
+249
+
+
+ 
+
+F. Zhu, M. Chen, A.Q. Cheng, J.K. Hao, S.W. Quan, F. Wang
+                       PKU, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+Beijing isotope separation on line type rare ion beam facility (BISOL) is a proposed facility which has two superconducting RF linacs. One is a high intense driver linac which adopts half wave resonators (HWRs), and the other is the low current post-accelerator which includes quarter wave resonators (QWRs). For the pre-research of BISOL, a cryomodul which can do the horizontal test of both 81.25 MHz QWR for the post-accelerator and 162.5 MHz HWR for the driver accelerator with the proper external quality factor. For this purpose, Peking University are developing a coupler which can transfer 5 kW power to the 81.25 MHz QWR or cw 20 kW power to the 162.5 MHz HWR cavity. The electromagnetic optimization, Multipacting simulation, thermal analysis and detail structure of the coupler will be presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP075
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 02 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP076
+Fundamental Power Coupler Design for a 325 MHz Balloon SSR Cavity
+252
+
+
+ 
+
+R.E. Laxdal, Y. Ma, B. Matheson, B.S. Waraich, Z.Y. Yao, V. Zvyagintsev
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+TRIUMF has designed, fabricated and tested the first balloon variant of the single spoke resonator at 325 MHz and β=0.3. TRIUMF has also designed a 6 kW fundamental power coupler as part of the development. The design of the coupler will be presented.
+
+ 
+
+
+
+
+
+
+Poster MOP076 [1.282 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP076
+
+ 
+
+
+About •
+paper received ※ 24 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP077
+Ceramic Study on RF Windows for Power Coupler, Waveguide, and Klystron in Particle Accelerator
+255
+
+
+ 
+
+Y. Yamamoto, S. Michizono
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+R&Ds on different types of ceramic used in power coupler, waveguide, and klystron for particle accelerators are under progress in Center of Innovation (COI) at KEK, and at some outside companies. There are five important parameters on the properties of ceramics; that is, relative permittivity, dielectric loss tangent, surface and volume resistivity, and secondary electron emission coefficient. For measurements of these parameters, eight kinds of ceramic samples supplied from five vendors have been measured using three different measurement systems since 2017. In this report, the recent results for these studies will be presented in detail.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP077
+
+ 
+
+
+About •
+paper received ※ 22 June 2019       paper accepted ※ 01 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP078
+Adjustable Power Coupler for NICA HWR Cavities
+260
+
+
+ 
+
+S.V. Matsievskiy, M.V. Lalayan
+                       MEPhI, Moscow, Russia
+D. Bychanokpresenter
+                       INP BSU, Minsk, Belarus
+M. Gusarova
+                       JINR, Dubna, Moscow Region, Russia
+
+ 
+
+
+ 
+
+Current results on input power coupler development for Half-Wave superconducting accelerating cavity proposed for Nuclotron-based Ion Collider fAcility (NICA) collider injector upgrade are discussed. Two coupler designs are considered, first one is a low-power coupler for cavity tests and the second one is a high-power operational coupler. Both devices are of coaxial type with capacitive coupling; high-power coupler utilizes single ceramic vacuum window. NICA is designed to accelerate different types of ions. Due to the variable intensity of ion sources, beam current will vary in wide range. In order to ensure efficient acceleration, power coupler must be highly adjustable in terms of coupling coefficient. This introduces excessive mechanical stress in the ceramic RF window due to the bellows deformation. In order to mitigate this effect bellows were substituted with sliding contacts. This paper discusses new coupler design and its electrical, mechanical and thermal properties.
+
+ 
+
+
+
+
+
+
+Poster MOP078 [1.296 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP078
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP080
+Latest Progress in Designs and Testings of PIP-II Power Couplers
+263
+
+
+ 
+
+S. Kazakov, B.M. Hanna, O.V. Pronitchev, N. Solyak
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Proton Improvement Plan – II (PIP-II) project is under go in Fermi National Laboratory. Main part of the project is 800 MeV proton superconducting accelerator which includes 116 superconducting cavities of 5 different types and three 162.5, 325 and 650 MHz frequencies. Key elements of accelerator which determine a reliable operation are main couplers for superconducting cavities. This paper describes the latest progress in design and testing of main couplers for PIP-II projects.
+
+ 
+
+
+
+
+
+
+Poster MOP080 [0.881 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP080
+
+ 
+
+
+About •
+paper received ※ 18 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP081
+Considerations for Efficient RF Operation for the Advanced cw-Linac Demonstrator at GSI
+267
+
+
+ 
+
+C. Burandt, K. Aulenbacher, W.A. Barth, F.D. Dziuba, V. Gettmann, T. Kürzeder, S. Lauber, J. List, M. Miski-Oglu, S. Yaramyshev
+                       HIM, Mainz, Germany
+K. Aulenbacher, W.A. Barth, C. Burandt, F.D. Dziuba, V. Gettmann, M. Heilmann, T. Kürzeder, S. Lauber, J. List, M. Miski-Oglu, A. Schnase, S. Yaramyshev
+                       GSI, Darmstadt, Germany
+K. Aulenbacher, F.D. Dziuba, S. Lauber, J. List
+                       IKP, Mainz, Germany
+M. Basten, M. Busch, H. Podlech, M. Schwarz
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+The FAIR@GSI accelerator facility will require the GSI-UNILAC to provide short heavy ion pulses of highest intensity at low repetition rate for injection into the 18 Tm synchrotron SIS18. However, successful physics programs like SHE (Super Heavy Elements) rely on the UNILAC providing for heavy ion beams of high average current and high duty factor. In the next future, a dedicated super-conducting (sc) cw-Linac should therefore deliver cw beams to the experiments associated with those programs. As a first step towards this goal, beam tests with a single sc Cross-bar H-mode (CH) cavity were successfully conducted in 2017/2018. Within the scope of an Advanced Demonstrator project, current activities now aim at a beam test of a full cryomodule with three sc CH cavities and a sc rebuncher. Given a limited amount of rf power available per cavity and the necessity to accelerate different ion species with different mass-to-charge ratios, the loaded quality factor Q of the different resonators has to be chosen very carefully. This contribution discusses the simulations performed in this context.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP081
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP082
+Measurement of the Vibration Response of the EXFEL RF Coupler and Comparison With Simulated Data (Finite Element Analyses)
+273
+
+
+ 
+
+S. Barbanotti, C. Engling, K. Jenschpresenter
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The coupler is one of the main and most sensitive components of the European X-ray Free Electron Laser (EXFEL) superconducting cryomodule. More than 800 couplers were transported for more than 800 km assembled in a cryomodule during the assembly phase of the EXFEL without any visible damage. However, in a different project, a very similar coupler design showed a week point in one of the bellows when transported over a similar distance with a comparable transport set up. Therefore we decided to further study the coupler behaviour: we investigated the frequency response of the coupler on a vibration table in a controlled environment for different road and loading conditions and compared the data with simulated ones. This paper present the work performed so far and our conclusions.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP082
+
+ 
+
+
+About •
+paper received ※ 18 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP083
+R&D of Copper Electroplating Process for Power Couplers: Effect of Microstructures on RRR
+278
+
+
+ 
+
+Y. Okii, J. Taguchi
+                       Nomura Plating Co, Ltd., Osaka, Japan
+E. Kako, S. Michizono, Y. Yamamoto
+                       KEK, Ibaraki, Japan
+H. Takahashi, H. Yasutake
+                       CETD, Tochigi, Japan
+
+ 
+
+
+ 
+
+Power couplers for superconducting cavities are required to have both low-thermal conductivity and high-electrical conductivity, because high-thermal conductivity and low-electrical conductivity could generate unexpected increase for heat load. In order to combine these contrary properties, power couplers are made of stainless steel and plated with copper plating. As electrical conductivity of copper layer affects dynamic heat load, it is crucial to optimize plating processes. In this study, we investigated influences of plating parameters (i.e., thickness of copper layer, plating bath composition, bath temperature, heat-treatment conditions) on RRR by collaborative work among Nomura plating, CETD, and KEK. As a result, we obtained high-RRR samples with conditions noted below; (1) electroformed copper plate, (2) copper layer thickness of over 50 µm, and (3) heat-treatment at 200deg-1h, (4) other plating bath composition. In addition, we observed microstructures of several samples, then found that microstructures of copper layer are strongly related to RRR. In this paper, we will present the recent results for this investigation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP083
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP084
+A Simple Variable Coupler for the Cryogenic Test of SRF Cavities
+282
+
+
+ 
+
+G. Ciovati, L. Turlington
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+The cryogenic rf tests of SRF cavities in vertical cryostats is typically carried out using fixed-length antennae to couple rf power into the cavity and to probe the energy stored into the cavity. Although variable couplers have been designed, built and used in the past, they are often a complex, costly, not very reliable auxiliary component to the cavity test. In this contribution we present the design and implementation of a simple variable rf antenna which has about 50 mm travel, allowing to obtain about four orders of magnitude variation in Qext -value. The motion of the antenna is driven by a motorized linear feedthrough outside of the cryostat. The antenna can easily be mounted on the most common type of cavity flanges.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP084
+
+ 
+
+
+About •
+paper received ※ 18 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP085
+The Destructive Effects to the RF Coupler by the Plasma Discharge
+285
+
+
+ 
+
+A.D. Wu, Q.W. Chu, H. Guo, Y. He, S.C. Huang, T.C. Jiang, C.L. Li, Z.Q. Lin, F. Pan, Y.K. Song, T. Tan, W.M. Yue, S.H. Zhang, H.W. Zhao
+                       IMP/CAS, Lanzhou, People’s Republic of China
+
+ 
+
+
+ 
+
+The low temperature RF plasma was proved an effec-tive method to clean the niobium surface and relieve the field emission effect for the SRF cavities. In the case of half-wave resonators, these cavities were usually powered via the fundamental coupler with the electric coupling. Thus, coupler antennas were fixed in the intense electric field region, and this region was where the plasma rou-tinely ignited. Therefore, the ceramic window of coupler taken the risk of breakdown under the sputtering of ions and heating loads that may be caused by the plasma drift and diffusion from the electric field region. In this paper, the plasma ignition for surface cleaning on the HWR cavity and its coupler was investigated, and the power transmission, temperature raising and vacuum degradation were tested to characterize the adverse impacts on the ceramic window. Finally, the solution was proposed to figure these issues.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP085
+
+ 
+
+
+About •
+paper received ※ 22 June 2019       paper accepted ※ 02 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP086
+Conditioning of the First Mass Production Power Couplers for the ESS Elliptical Cavities
+288
+
+
+ 
+
+C. Arcambal, M. Baudrier, P. Bosland, G. Devanzpresenter, T. Hamelin, C. Marchand, M. Oublaid, G. Perreu, S. Regnaud, C. Servouin, C. Simon
+                       CEA-DRF-IRFU, France
+G. Monnereau
+                       CEA-IRFU, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+In the framework of the European Spallation Source (ESS), CEA Paris-Saclay is in charge of the delivery of 9 medium beta (β = 0.67) and 21 high beta (β = 0.86) cryomodules. Each cryomodule is composed of 4 cavities equipped with RF (Radio Frequency) power couplers (704.42 MHz, 1.1 MW maximum peak power, repetition rate=14 Hz, RF pulse width > 3.1 ms). Ten prototype power couplers have been manufactured to validate the design and the performance. Currently the mass production of the 120 couplers started and the six first pre-series medium beta couplers have been successfully conditioned. The achievement of this milestone allowed us to launch the production of the remaining 30 medium beta couplers. This paper presents the conditioning of the pre-series couplers.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP086
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 29 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP087
+IFMIF Resonators Development and Performance
+293
+
+
+ 
+
+G. Devanz, M. Baudrier, P. Carbonnier, F. Éozénou, E. Fayette, D. Roudier, P. Sahuquet, C. Servouin
+                       CEA-DRF-IRFU, France
+N. Bazin, S. Chel, L. Maurice
+                       CEA-IRFU, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+The prototype IFMIF cryomodule encloses eight superconducting 175 MHz beta 0.09 Half-Wave Resonators (HWR). They are designed together with the power coupler to accelerate a high intensity deuteron beam (125 mA) from to 5 to 9 MeV. One prototype HWR and the 8 cavities to be hosted in the cryomodule have been manufactured, prepared and tested. The paper describes the phases of the cavities development, including fabrication, processing, and RF resonant frequency management. We focus on the results of the RF tests which have been performed for all bare and jacketed HWRs in a vertical cryostat.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP087
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 03 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP089
+Development of a Suspension System for the Road Transportation of Cryomodule SSR1 through a Multilevel Finite Element-Multibody Approach
+297
+
+
+ 
+
+P. Neri, F. Bucchipresenter
+                       University of Pisa, Pisa, Italy
+D. Passarelli
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The on-road transportation of cryomodules (CM) is a critical phase during which the structure may be subject to relevant dynamic loading. Thus, an accurate design of Transportation Tool (TT), equipped with a proper suspension system, is mandatory. In this paper the TT design for the PIP-II proto SSR1 CM is presented. A finite element (FE) model was developed considering the main CM parts. However, the full model was not suited for the design of the suspension system because of its computational time. Thus, it was exported as a Modal Neutral File to a multibody (MB) software, where minor components were modeled as rigid bodies or lumped stiffnesses. The reduced MB model considerably shortened the computational time and it was exploited for the design of the TT, which includes helical isolators (HI) acting as a mechanical filter. A real 3D acceleration profile, acquired during the transportation of a LCLS-II CM from Fermilab to SLAC, was used to validate the TT effectiveness in reducing the vibrational loading. In addition, the results of the MB analysis were used to perform FE analysis of critical components, such as bellows.
+
+ 
+
+
+
+
+
+
+Poster MOP089 [0.995 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP089
+
+ 
+
+
+About •
+paper received ※ 29 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP092
+Overview of LCLS-II Project Status at Fermilab
+302
+
+
+ 
+
+R.P. Stanek, T.T. Arkan, J.N. Blowers, C.M. Ginsburg, A. Grassellino, C.J. Grimm, B.J. Hansen, E.R. Harms, B.D. Hartsell, J.P. Holzbauer, J.A. Kaluzny, A.L. Klebaner, A. Martinez, T.H. Nicol, Y.O. Orlov, K.S. Premo, N. Solyak, J. Theilacker, G. Wu
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The superconducting RF Continuous-Wave (CW) Linac for the LCLS-II consists of thirty-five 1.3 GHz and two 3.9 GHz cryomodules that Fermilab and Jefferson Lab are jointly producing in collaboration with SLAC. Fermilab¿s scope of work is to build, test, and deliver half the 1.3 GHz and all the 3.9 GHz cryomodules and to design and procure components for the cryogenic distribution system. Fermilab has primary responsibility for delivering a working design. The cryomodule design basis was the European XFEL but several elements evolved to meet CW operation requirements and specifics of the SLAC tunnel. There have been several challenges faced during the design, assembly, testing and transportation of the cryomodules which have required design updates. Success in overcoming these challenges is attributable to the strength of the LCLS-II SRF Collaboration (Fermilab, Jefferson Lab and SLAC with extensive help from DESY and CEA/Saclay). The cryogenic distribution system has progressed relatively well and there are valuable Lessons Learned. An overview of the status, accomplishments, problems encountered, solutions developed, and a summary of Lessons Learned will be presented.
+
+ 
+
+
+
+
+
+
+Poster MOP092 [0.393 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP092
+
+ 
+
+
+About •
+paper received ※ 20 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP094
+Design Strategy of the PIP-II Cryomodules
+307
+
+
+ 
+
+V. Roger, S.K. Chandrasekaran, D. Passarelli
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy, Office of Science, Office of High Energy Physics
+The Proton Improvement Plan II (PIP-II) is the first U.S. accelerator project that will have significant contributions from international partners. Research institutions in India, Italy, UK and France will build major components of the particle accelerator. The High Beta 650 MHz (HB650) prototype cryomodule is being designed jointly between Fermilab (USA), CEA (France), STFC (UK) and RRCAT (India). The assembly of this prototype cryomodule will be done at Fermilab whereas the production cryomodules will be assembled in UK. Concerning the Low Beta 650 MHz (LB650) cryomodules, they will be designed and assembled at CEA. To reduce the cost of the project and to increase the quality it is essential to define a design strategy for each cryomodule which includes a degree of standardization. In this way, the lessons learned of each prototype cryomodule will have a great impact not only on one cryomodule type but on all cryomodules. An international joint design brings also additional challenges to the project: which unit system should be used? Should a common project lifecycle management system be used for all partners? How to transport the cryomodules overseas.
+
+ 
+
+
+
+
+
+
+Poster MOP094 [1.117 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP094
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP097
+Preliminary Design of the IFMIF-DONES Superconducting Linac
+311
+
+
+ 
+
+T. Plomion, N. Bazinpresenter, N. Chauvin, G. Devanz, J. Plouin, K. Romieu
+                       CEA-DRF-IRFU, France
+S. Chel
+                       CEA-IRFU, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+The linear accelerator for the DONES facility (DEMO oriented neutron source) will serve as a neutron source for the assessment of materials damage in future fusion reactors. The DONES accelerator, which is based on the design of LIPac (Linear IFMIF Prototype Accelerator, which is under construction in Rokkasho, Japan) will accelerate deuterons from 100 keV up to 40 MeV at full CW current of 125 mA. This paper will present the preliminary design of the superconducting linac which is based on five cryomodules.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP097
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP098
+Spoke Cryomodule Prototyping for the MINERVA Project
+315
+
+
+ 
+
+H. Saugnac, S. Blivet, N. Gandolfopresenter, C. Joly, W. Kaabi, J. Lesrel, D. Longuevergne, G. Olivier, M. Pierens, W. Sarlin
+                       Université Paris-Saclay, CNRS/IN2P3, IJCLab, Orsay, France
+M.A. Baylac, D. Bondoux, F. Bouly, P.-O. Dumont, Y. Gómez Martínez
+                       LPSC, Grenoble Cedex, France
+
+ 
+
+
+ 
+
+In the framework of the MINERVA (MYRRHA 100 MeV) project, a prototyping period started at the end of 2017, has been planned. During this period a prototype cryomodule fully equipped (Spoke Cavities, Cryomodule Vessel, Cold Tuning System, Magnetic shielding, Power Couplers¿) as well as its operating and controlling components (LLRF, RF amplifiers¿) will be studied and manufactured. The aim of this prototyping period is first to complete the study of all the components and to validate the manufacturing and the assembling procedure in order to freeze the specifications for the serial construction. On the other hand the prototypes will serve as a test stand allowing to study and adjust the "Fault Tolerance" strategy parameters , which is a challenging operating concept specific to the MYRRHA LINAC This poster presents the various tasks related to this Spoke Cryomodule prototyping and their status.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP098
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 02 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP099
+Design of Crab Cavity Cryomodule for HL-LHC
+320
+
+
+ 
+
+T. Capelli, K. Artoos, A.B. Boucherie, K. Brodzinski, R. Calaga, S.J. Calvo, E. Cano-Pleite, O. Capatina, F. Carra, L. Dassa, F. Eriksson, M. Garlasché, A. Krawczyk, R. Leuxe, P. Minginette, E. Montesinos, B. Prochal, M. Sosin, M. Therasse
+                       CERN, Geneva, Switzerland
+T.J. Jones, N. Templeton
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+A. Krawczyk, B. Prochal
+                       IFJ-PAN, Kraków, Poland
+S.M. Pattalwar
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Research supported by the HL-LHC project
+Crab cavities are a key element to achieve the HL-LHC performance goals. There are two types of cavities Double Quarter Wave (DQW) for vertical crabbing, and Radiofrequency Dipole (RFD) for horizontal crabbing. Cavities are hosted in a cryomodule to provide optimal conditions for their operation at 2K while minimizing the external thermal loads and stray magnetic fields. One crab cryomodule contains more than thirteen thousand components and the assembly procedure for the first DQW prototype was carefully planned and executed. It was installed in the SPS accelerator at CERN in 2018 and successfully tested with proton beams. A review has thus been performed right after completion of the assembly in order to gather all the experience acquired and improve accordingly the design of the next generation of crab cryomodules. A second cryomodule with two RFD cavities is currently under production. This paper presents the lessons learnt from the first assembly and their implementation to the design of the future crab cryomodules.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP099
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP100
+Design Upgrades of the Next Superconducting RF Gun for ELBE
+326
+
+
+ 
+
+J. Teichert, A. Arnold, S. Ma, P. Murcek, J. Schaber, H. Vennekate, R. Xiang, P.Z. Zwartek
+                       HZDR, Dresden, Germany
+K. Zhou
+                       CAEP/IAE, Mianyang, Sichuan, People’s Republic of China
+
+ 
+
+
+ 
+
+Funding: Funding is provided by the China Scholarship Council.
+At the ELBE user facility a superconducting RF photoinjector has been in operation since several years. The injector is routinely applied for THz radiation production in user beam experiments. For future applications higher bunch charges, shorter pulses and lower transverse emittances are required. Thus it is planned to replace this SRF gun by a next version with an RF cavity reaching a higher acceleration gradient. We also present improvements concerning the SC solenoid and the photocathode exchange system and report on the status of construction and testing of this SRF gun cryomodule.
+
+ 
+
+
+
+
+
+
+Poster MOP100 [2.199 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP100
+
+ 
+
+
+About •
+paper received ※ 27 June 2019       paper accepted ※ 02 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP101
+Design and Manufacturing Challenges of the SSR1 Current Leads for PIP-II
+329
+
+
+ 
+
+S. Cheban, D. Passarelli, V. Roger
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The SSR1 cryomodule contains eight 325 MHz superconducting single spoke cavities and four solenoid-based focusing lenses operating at 2 K. The focusing lens for SSR1 cryomodule, is a superconducting magnet surrounded by a helium box which will be filled with liquid helium. The magnet assembly is composed of one solenoid with operating current 70 A and 2 quadrupoles correctors with operating current 45 A. The conduction cooled current leads will be used to power magnets. The details of current leads design, fabrication and room temperature qualification will be presented. Main emphasis will be put on the design and production process challenges and possible solutions to fulfilled operation requirement under low temperature conditions.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP101
+
+ 
+
+
+About •
+paper received ※ 28 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP102
+Alignment Monitoring System for the PIP-II Prototype SSR1 Cryomodule
+332
+
+
+ 
+
+S. Cheban, D. Passarelli, S.Z. Zorzetti
+                       Fermilab, Batavia, Illinois, USA
+G. Kautzmann
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+For the first prototype PIP-II SSR1 cryomodule, an alignment monitor system based on HBCAM will be used. The main focus will be changes in alignment due to shipping and handling or during cool down and operation process. The SSR1 cryomodule contains eight 325 MHz superconducting single spoke cavities and four solenoid¿based focusing lenses, and an alignment error better than 0.5 mm RMS for the transverse solenoid, based on function requirement specification. The alignment monitor system has been configured to the objectives of SSR1 cryomodule: low space for integration; presence of magnetic fields; exposure to non-standard environmental conditions such as high vacuum and cryogenic temperatures. The mechanical design and first results of system performance will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP102
+
+ 
+
+
+About •
+paper received ※ 28 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOP105
+A Superconducting Magnetic Shield for the Photoelectron Injector of BERLinPro
+335
+
+
+ 
+
+J. Völker, A. Frahm, A. Jankowiak, S. Keckert, J. Knobloch, G. Kourkafas, O. Kugeler, A. Neumann, H. Plötz
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+Magnetic fields are a big issue for SRF cavities, especially in areas with strong electromagnets or ferromagnetic materials. Magnetic shieldings consisting of metal alloys with high magnetic permeability are often used to reroute the external magnetic flux from the cavity region. Those Mu metal shields are typically designed for weak magnetic fields like Earth’s magnetic field. Next to strong magnetic field sources like superconducting (SC) solenoids, those shields can be easily saturated resulting in a degradation of the shielding efficiency and a permanent magnetization. For the photoinjector of BERLinPro a new SC solenoid will be installed inside the cryomodule next to the SRF gun cavity. Calculations show that the fringe fields of the solenoid during operation can saturate the cavity Mu-metal shields. Therefore we designed an SC magnetic shield placed between solenoid and cavity shield to protect the latter during magnet operation. In this paper we will present the design and first measurements of this SC magnetic shield.
+
+ 
+
+
+
+
+
+
+Poster MOP105 [2.011 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOP105
+
+ 
+
+
+About •
+paper received ※ 04 July 2019       paper accepted ※ 14 August 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

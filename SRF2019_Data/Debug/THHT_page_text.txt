@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRF2019 - Table of Session: THHT (Hot Topic)
+
+
+THHT —  Hot Topic   (04-Jul-19   12:00—13:00)
+Chair: H. Padamsee, Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+THHT1
+Maximizing Peak Surface Fields - Time  Barrier vs. Surface Barrier
+ 
+
+
+ 
+
+H. Padamsee
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+C.E. Reece
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Is the limit to SRF peak surface magnetic field the DC superheating field (Hsh) or is it the time barrier to fluxoid formation (tD)? The time barrier (tD) is the time scale for order-parameter changes (pair-breaking). In the first case there exists a surface energy barrier to the penetration of fluxoids above Hc1, or above Hc. In the second case the order parameter change time scale is longer than the rf period, so fluxoids do not nucleate in the rf period. The question is key for which new materials to explore for SRF. Should we study materials with higher Hsh (Nb3Sn, MgB2, or such overlayers) or should we study materials with higher tD such as V, Ta, Sn or such overlayers?
+
+ 
+
+
+
+
+
+
+Slides THHT1 [10.854 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

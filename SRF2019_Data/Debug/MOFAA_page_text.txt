@@ -1,0 +1,253 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRF2019 - Table of Session: MOFAA (Facilities 1)
+
+
+MOFAA —  Facilities 1   (01-Jul-19   08:20—10:00)
+Chair: J. Knobloch, HZB, Berlin, Germany
+
+
+Paper
+Title
+Page
+
+
+
+MOFAA1
+LCLS-II: Status, Issues and Plans
+1
+
+
+ 
+
+M.C. Ross
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Department of Energy contract DE-AC02-76SF00515
+The Linac Coherent Light Source II (LCLS-II) project requires the assembly, test, and installation of 37 cryomodules (CM) in order to deliver a 4 GeV CW electron beam to the FEL undulators for production of both hard and soft X-ray pulses at a repetition rate of up to 1 MHz. SRF cavity performance in the 30+ tested CM exceeds gradient and cryogenic dynamic heat-load requirements (set at 16 MV/m and 10 W resp). In this talk we present microphonics, shipping, magnetic-flux exclusion, and field emission performance. The US funding agency, DOE, has recently approved an additional 20 CM for the extension of LCLS-II to 8 GeV. This paper will also include initial cavity and heat-load performance results for the extension project, LCLS-II-HE.
+
+ 
+
+
+
+
+
+
+Slides MOFAA1 [30.146 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOFAA1
+
+ 
+
+
+About •
+paper received ※ 25 June 2019       paper accepted ※ 04 July 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOFAA2
+Operation of the European XFEL Towards the Maximum Energy
+9
+
+
+ 
+
+M. Omet, V. Ayvazyan, J. Branlard, S. Choroba, W. Decking, V.V. Katalev, D. Kostin, L. Lilje, P. Morozov, Y. Nachtigal, H. Schlarb, V. Vogel, N. Walker, B. Yildirim
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+After the initial commissioning of the available 25 radio frequency (RF) stations of the European XFEL (RF gun, A1, AH1 and stations A2 through A23) a maximum electron beam energy of 14.5 GeV was achieved, 3 GeV short of the design energy of 17.5 GeV. In order to tackle this problem, the Maximum Gradient Task Force (MGTF) was formed. In the scope of the work of the MGTF, RF stations A6 through A25 (linac L3) were systematically investigated and voltage-limiting factors of the SRF accelerating modules and their RF distribution system were identified and improved. As a result, the design electron beam energy was exceeded at 17.6 GeV on the 18.7.2018. Beside this an overview over the regular RF operation at the European XFEL is given.
+
+ 
+
+
+
+
+
+
+Slides MOFAA2 [5.695 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOFAA2
+
+ 
+
+
+About •
+paper received ※ 21 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOFAA3
+The FRIB SC-Linac - Installation and Phased Commissioning
+12
+
+
+ 
+
+J. Wei, H. Ao, S. Beher, B. Bird, N.K. Bultman, F. Casagrande, D. Chabot, W. Chang, S. Cogan, C. Compton, J. Curtin, K.D. Davidson, E. Daykin, K. Elliott, A. Facco, A. Fila, V. Ganni, A. Ganshyn, P.E. Gibson, T. Glasmacher, I. Grender, W. Hartung, L. Hodges, K. Holland, H.-C. Hseuh, A. Hussain, M. Ikegami, S. Jones, T. Kanemura, S.H. Kim, P. Knudsen, M.G. Konrad, J. LeTourneau, Z. Li, S.M. Lidia, G. Machicoane, P. Manwiller, F. Marti, T. Maruta, E.S. Metzgar, S.J. Miller, D.G. Morris, C. Nguyen, K. Openlander, P.N. Ostroumov, A.S. Plastun, J.T. Popielarski, L. Popielarski, J. Priller, M.A. Reaume, H.T. Ren, T. Russo, K. Saito, M. Shuptar, J.W. Stetson, D.R. Victory, R. Walker, X. Wang, J.D. Wenstrom, M. Wright, M. Xu, T. Xu, Y. Yamazaki, Q. Zhao, S. Zhao
+                       FRIB, East Lansing, Michigan, USA
+K. Dixon, M. Wiseman
+                       JLab, Newport News, Virginia, USA
+A. Facco
+                       INFN/LNL, Legnaro (PD), Italy
+K. Hosoyama
+                       KEK, Ibaraki, Japan
+M.P. Kelly
+                       ANL, Lemont, Illinois, USA
+R.E. Laxdal
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661.
+The Facility for Rare Isotope Beams (FRIB) superconducting (SC) driver linac is designed to accelerate all stable ions including uranium to energies above 200 MeV/u primarily with 46 cryomodules containing 324 quarter-wave resonators (QWR) and half-wave (HWR) resonators. With the newly commissioned helium refrigeration system supplying liquid helium to the QWR and solenoids, heavy ion beams including Ne, Ar, Kr and Xe were accelerated to the charge stripper location above 20 MeV/u with the first linac segment consisting of 15 cryomodules containing 104 QWRs of β=0.041 and 0.085 and 39 solenoids. Installation of cryomodules with β=0.29 and 0.53 HWRs is proceeding in parallel. Development of β=0.65 elliptical resonators is on-going supporting the FRIB energy upgrade to 400 MeV/u. This paper summarizes the SC-linac installation and phased commissioning status that is on schedule and on budget to the FRIB project.
+
+ 
+
+
+
+
+
+
+Slides MOFAA3 [46.571 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2019-MOFAA3
+
+ 
+
+
+About •
+paper received ※ 23 June 2019       paper accepted ※ 30 June 2019        issue date ※ 14 August 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOFAA4
+ESS: SRF Systems, Overview and Status
+ 
+
+
+ 
+
+P. Pierini
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+We report the status of the testing of SRF cryomodule at the ESS module test facilities and the preparation activities for the installation and commissioning of the ESS SRF Linac.
+
+ 
+
+
+
+
+
+
+Slides MOFAA4 [123.614 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+
